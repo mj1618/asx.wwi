@@ -1,15 +1,114 @@
-# ASX WWI deep dive
+# ASX:WWI Investment Summary — Buy, Hold, or Avoid?
 
-I'm planning to invest a large amount in ASX.WWWI (West Wits Mining Limited).
+*As-of date: 2026-02-02*  
+*Not financial advice. Do your own due diligence.*
 
-I want you to do a deep dive review like a proper wall street analyst would do.
+---
 
-Look at everything you can find, like:
-- financials
-- news articles
-- similar companies and compare
-- management team
-- risks
-- upside
+## Verdict: SPECULATIVE BUY — High Risk / High Reward
 
-And tell me what the most important things are to know. I also want to know your prediction of the price going forward, and what is the chance that the stock will not go up in the next couple of years and may go down. I want to know the likelihood of these different outcomes.
+WWI is a **high-conviction speculative buy** for investors with appropriate risk tolerance who believe in the management team's ability to execute the transition from developer to producer. The next 3-6 months are make-or-break.
+
+---
+
+## Why Consider Buying
+
+### 1. Significant Near-Term Catalyst
+First gold pour is targeted for **March 2026** — just weeks away. If achieved, this transforms WWI from a "developer discount" valuation to a "producer" valuation. This is the single most important catalyst.
+
+### 2. Large Resource Base at Attractive Grades
+- **7.24Moz gold @ 4.0g/t** (global JORC resource, updated Feb 2026)
+- Measured & Indicated: 4.01Moz @ 4.21g/t
+- This is a meaningful resource in a historically prolific gold region (Witwatersrand Basin)
+
+### 3. Strong DFS Economics
+The Qala Shallows DFS (July 2025) shows attractive economics:
+- **Post-tax NPV (7.5% discount):** US$500m
+- **IRR:** 81%
+- **AISC:** US$1,289/oz
+- **LOM:** ~17 years with 944koz production
+
+Even at conservative gold prices (US$1,850/oz), the NPV is US$194m — still meaningful upside.
+
+### 4. Funded to First Gold
+- **A$22.2m cash** at 31 Dec 2025
+- Recent **A$33.7m placement** at A$0.08 (Jan 2026) with institutional backing (Tribeca)
+- **US$12.5m Nebari debt facility** drawn
+- **ZAR 875m (~US$50m)** senior loan facility available
+- Should be funded through first gold and initial ramp
+
+### 5. De-Risked Processing Pathway
+Toll processing at **Sibanye-Stillwater's Ezulwini Plant** — no need to build own processing plant. Reduces execution risk and capex requirements.
+
+### 6. Probability-Weighted Upside
+At current price (~A$0.077), the risk/reward skews positive:
+- **Bull case (25% probability):** A$0.12–0.22/share
+- **Base case (50% probability):** A$0.05–0.11/share
+- **Bear case (25% probability):** A$0.01–0.04/share
+
+Probability-weighted value sits in the **high single-digits to low teens cents** — current price is within or below this range.
+
+---
+
+## Why You Might Avoid
+
+### 1. Execution Risk is Real
+The company has never produced gold. Underground mining in the Witwatersrand has challenges. Ramp-up rarely goes smoothly. Typical "first year" issues should be expected.
+
+### 2. Dilution Has Been Severe
+- **4.32 billion shares** outstanding
+- **~660 million** dilutive instruments (options, warrants, performance rights)
+- Share count has grown dramatically over the past 2 years
+- More dilution is possible if ramp underperforms
+
+### 3. Cash Runway is Tight
+- Company estimates only **2.64 quarters** of funding available (per Dec 2025 Appendix 5B)
+- If first gold is delayed or ramp struggles, expect more equity raises
+
+### 4. South Africa Jurisdiction Risk
+- Regulatory uncertainty, BEE requirements, community relations
+- WWI only owns **74%** of the project (26% to local partner Lilitha)
+- Track record of permitting delays in SA mining
+
+### 5. Related-Party Payments Increasing
+Appendix 5B item 6.1 (related-party payments) jumped to **A$607k** in Dec 2025 quarter vs tens of thousands previously. Not a red flag by itself, but worth monitoring.
+
+### 6. Pre-Revenue Means High Volatility
+Until first gold is achieved and stable cashflows established, the share price will be driven by news flow and sentiment, not fundamentals.
+
+---
+
+## Key Milestones to Watch
+
+| Timeline | Catalyst | Importance |
+|----------|----------|------------|
+| **Mar 2026** | First gold pour | Critical — validates entire thesis |
+| **Q2 2026** | Ramp progress (ore delivered, processed, grade) | Evidence of repeatability |
+| **H2 2026** | Move toward steady-state ~70koz p.a. | Cash generation begins |
+| **2026–27** | Project 200 scoping study | Expansion optionality |
+
+---
+
+## Position Sizing Guidance
+
+Given the binary nature of the near-term catalyst:
+- **Max position:** 1-3% of portfolio (speculative allocation only)
+- **Entry strategy:** Consider scaling in rather than full position
+- **Stop-loss consideration:** Below A$0.05 if first gold is materially delayed
+- **Upside target:** A$0.10–0.15 on successful first gold + clean ramp
+
+---
+
+## Bottom Line
+
+WWI is a **high-risk, high-reward** opportunity at a critical inflection point. The next 3-6 months will largely determine whether this is a multi-bagger or a disappointment.
+
+**Buy if:** You have risk appetite, understand mining execution risk, and want exposure to a potential developer-to-producer re-rate.
+
+**Avoid if:** You need capital preservation, can't stomach 50%+ drawdowns, or require revenue/cashflow before investing.
+
+The thesis is simple: if first gold comes on time and ramp proceeds reasonably, WWI is likely undervalued at current prices. If execution falters, expect more dilution and lower prices.
+
+---
+
+*This summary is based on public filings and analysis in this repository. See `ANALYSIS.md` for detailed research.*

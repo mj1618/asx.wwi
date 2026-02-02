@@ -1,6 +1,6 @@
 # Context
 
-See @README.md for context.
+See @PLAN.md for context.
 
 # Find a task to complete
 
