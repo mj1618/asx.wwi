@@ -5,8 +5,11 @@ This file is a **curated** timeline of material ASX announcements over the last 
 - capital raises and capital-structure changes (placements, Appendix 2A/3B/3G)
 - major project/resource updates
 
+*As-of date for this repo snapshot: **2026-02-02***  
+
 For the **full** announcements list, use ASX historical announcements search (filter by year/period):
-- `https://www.asx.com.au/asx/v2/statistics/announcements.do?by=asxCode&asxCode=WWI`
+- Current year: `https://www.asx.com.au/asx/v2/statistics/announcements.do?by=asxCode&asxCode=WWI&timeframe=Y&year=2026`
+- Prior year: `https://www.asx.com.au/asx/v2/statistics/announcements.do?by=asxCode&asxCode=WWI&timeframe=Y&year=2025`
 
 ## Timeline (last ~24 months)
 

@@ -1,8 +1,16 @@
 ## ASX:WWI (West Wits Mining Limited) — Deep-dive working outline
 
-**Status**: Outline with **cash/runway + capital structure + project factsheets + scenario valuation (bull/base/bear + probability-weighted)** populated from primary documents (through Jan–Feb 2026). Remaining sections still TBD.
+**Status**: Working outline with **cash/runway + capital structure + project factsheets + scenario valuation (bull/base/bear + probability-weighted)** populated from primary documents (through Jan–Feb 2026).
+
+For the single “hand-to-an-investor” memo that answers `README.md`, see **`report.md`**.
 
 > Not financial advice. This is a research framework to guide document collection and analysis.
+
+*As-of date for this repo snapshot: **2026-02-02***  
+For the repeatable update protocol (what to check, how often, and where to record deltas), see `monitoring.md`.
+
+### Changelog (single source of truth)
+- **2026-02-02**: Added `monitoring.md` (ongoing monitoring + post–first gold update protocol) and wired it into the repo docs. No new primary filings were added beyond the existing 2026-02-02 anchor.
 
 ### 1) Company snapshot (fill from latest filings)
 - **Company**: West Wits Mining Limited

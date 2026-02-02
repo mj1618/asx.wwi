@@ -11,7 +11,7 @@
 Goal: build a dated timeline of all material updates and capital structure changes.
 
 - [x] **All ASX announcements feed** (search by ticker and company name)
-  - **[ASX WWI historical announcements search](https://www.asx.com.au/asx/v2/statistics/announcements.do?by=asxCode&asxCode=WWI)** — *2026-02-02* — supports: “Canonical entry point for the complete, dated ASX announcements list for WWI (year/period filters).”
+  - **[ASX WWI announcements search (year view)](https://www.asx.com.au/asx/v2/statistics/announcements.do?by=asxCode&asxCode=WWI&timeframe=Y&year=2026)** — *2026-02-02* — supports: “Canonical entry point for the complete, dated ASX announcements list for WWI (use the year dropdown to change periods).”
   - [x] Quarterly activities reports
   - [x] Appendix 5B (quarterly cashflow report)
   - [x] Capital raises (placements/SPP/rights issues), Appendix 2A share issues

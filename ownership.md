@@ -2,6 +2,9 @@
 
 This note is intended to be **auditable**. Every row links to a primary document.
 
+*As-of date for this repo snapshot: **2026-02-02***  
+For the update protocol (what to check and where to write updates), see `monitoring.md`.
+
 ## Register concentration snapshots (primary)
 
 | Snapshot date | What | Key data | Source |
