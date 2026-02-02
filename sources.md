@@ -58,9 +58,16 @@ Deliverables to build from this:
 ---
 
 ### 3) Investor materials (company-provided)
-- [ ] **Investor presentation / corporate deck** — latest version
-- [ ] **Webinars / conference presentations** (slides + transcript if available)
-- [ ] **Company website project pages** (capture claims, dates, disclaimers)
+- [x] **Investor presentation / corporate deck** — latest available on company site (treat as secondary; cross-check in ASX PDFs where possible)
+  - **[WWI Corporate Presentation November 2025 (Noosa Mining Investor Conference)](https://westwitsmining.com/wp-content/uploads/2025/11/WWI-Corporate-Presentation-November-2025_.pdf)** — *2025-11* — supports: “Company-stated strategy, project overview, and forward-looking targets (verify in ASX filings).”
+  - **[WWI Investor Presentation (Munich Mining Conference) — dated 2025-09-30](https://westwitsmining.com/wp-content/uploads/2025/10/2025.09.30-WWI_Investor-Presentation.pdf)** — *2025-10* — supports: “Company-stated project overview and milestones (verify in ASX filings).”
+  - **[WWI Corporate Presentation July 2025 (incorporating updated DFS)](https://westwitsmining.com/wp-content/uploads/2025/07/WWI-Corporate-Presentation-July-2025.pdf)** — *2025-07* — supports: “Secondary summary of DFS updates (prefer ASX DFS announcement for primary extraction).”
+  - **[Presentations index (company site)](https://westwitsmining.com/presentations/)** — *2026-02-02* — supports: “Landing page for latest company-hosted decks/webinars.”
+- [x] **Webinars / conference presentations** (slides + transcript if available)
+  - **[Quarterly Investor Webinar (period ending Dec 2025)](https://youtu.be/tmgjkFKypyo?si=kOfDU5fmKZ2WLiGc)** — *2026-01* — supports: “Management commentary (secondary; verify material numbers in ASX PDFs).”
+- [x] **Company website project pages** (capture claims, dates, disclaimers)
+  - **[Investors page](https://westwitsmining.com/investors/)** — *2026-02-02* — supports: “Secondary summary bullets (NPV/IRR/AISC claims; verify against ASX technical releases).”
+  - **[Homepage / About section](https://westwitsmining.com/)** — *2026-02-02* — supports: “Secondary overview of key projects (verify against ASX PDFs).”
 
 Notes:
 - Investor decks often contain forward-looking assumptions; verify in filings where possible.
@@ -70,8 +77,10 @@ Notes:
 ### 4) Project technical documents (where available)
 Prioritize JORC-compliant and study documents.
 
-- [ ] **JORC resource statements** (resource tables, assumptions, competent person)
+- [x] **JORC resource statements** (resource tables, assumptions, competent person)
+  - **[2.2Moz Increase to WBP Global JORC Mineral Resource Estimate to 7.24Moz Gold](https://announcements.asx.com.au/asxpdf/20260202/pdf/06vvhp4zxswsgh.pdf)** — *2026-02-02* — supports: “WBP Global JORC (2012) MRE tables + assumptions + competent person statement.”
 - [ ] **Scoping / PFS / DFS** (if any)
+  - (Known to exist per company references; **capture the ASX technical release(s)** for the DFS summary as a primary source; company-hosted decks are secondary and can be used as pointers.)
   - [ ] Capex/opex/AISC assumptions and sensitivities
   - [ ] Mining method, metallurgy/recovery, schedule
   - [ ] Permitting status and critical path

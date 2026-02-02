@@ -29,3 +29,12 @@ For the **full** announcements list, use ASX historical announcements search (fi
 | 2026-01-28 | Appendix 3G — Notification of issue of unquoted equity securities | Capital structure | Issued **1.5m unquoted options** (incentive scheme); shows refreshed totals of quoted/unquoted classes | [PDF](https://announcements.asx.com.au/asxpdf/20260128/pdf/06vnnr41ghqxts.pdf) |
 | 2026-02-02 | 2.2Moz Increase to WBP Global JORC MRE to 7.24Moz Gold | Project / resource | Updated global MRE: **7.24Moz @ 4.0g/t Au**; includes table with Measured/Indicated/Inferred breakdown | [PDF](https://announcements.asx.com.au/asxpdf/20260202/pdf/06vvhp4zxswsgh.pdf) |
 
+## Highest-signal technical / project announcements (quick index)
+
+- **[2026-02-02 — WBP global JORC MRE updated to 7.24Moz @ 4.0g/t](https://announcements.asx.com.au/asxpdf/20260202/pdf/06vvhp4zxswsgh.pdf)**  
+  - **Why it matters**: re-sizes the flagship asset, increases M&I ounces, and lays out near-term technical work (lower cut-off reassessment across reefs; Bird Reef Central drilling; Project 200 scoping).
+- **[2026-01-23 — Quarterly (Dec 2025) operational ramp at Qala Shallows](https://announcements.asx.com.au/asxpdf/20260123/pdf/06vj8v3nlt4skk.pdf)**  
+  - **Why it matters**: primary update on ramp milestones (ore to surface; stockpiling; March 2026 first gold target; toll-treat pathway at Ezulwini) and the updated tenement list.
+- **[2026-01-20 — Placement to fund Qala Shallows + Project 200 + BRC uranium drilling](https://announcements.asx.com.au/asxpdf/20260120/pdf/06vf99fm6ywfp6.pdf)**  
+  - **Why it matters**: explicitly allocates capital to the mine build plus the two named growth workstreams (Project 200, BRC uranium target).
+

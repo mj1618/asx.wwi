@@ -7,9 +7,18 @@
 ### 1) Company snapshot (fill from latest filings)
 - **Company**: West Wits Mining Limited
 - **Ticker**: ASX:WWI (verify)
-- **Primary assets/projects**: TBD (list each project/tenement)
-- **Jurisdictions**: TBD (country/state)
-- **Stage**: TBD (exploration / development / production)
+- **Primary assets/projects** (from latest filings):
+  - **Witwatersrand Basin Project (WBP)** — Gauteng, South Africa (flagship; includes **Qala Shallows** gold mine development/near-term producer)
+  - **Mt Cecilia Project** (EL45/5045) — Paterson Province, Western Australia (exploration)
+  - **Derewo Project** — Indonesia (legacy; no substantive activity; seeking divestment)
+- **Jurisdictions**:
+  - South Africa (Gauteng Province; ~15km west of Johannesburg)
+  - Australia (Western Australia; Paterson Province)
+  - Indonesia (Papua region; Derewo IUP areas)
+- **Stage (as of Jan–Feb 2026)**:
+  - WBP/Qala Shallows: development → production ramp (first gold targeted **Mar 2026**)
+  - Mt Cecilia: exploration (follow-up drilling options under review)
+  - Derewo: dormant / divestment (tenure status risk flagged by company)
 - **Market metrics (as-of date)**:
   - **Share price**: TBD
   - **Shares on issue (basic / diluted)**:
@@ -25,7 +34,10 @@
   - **Enterprise value (EV)**: TBD
 - **Ownership/structure**:
   - **Major shareholders**: TBD
-  - **Project ownership/JVs/royalties**: TBD
+  - **Project ownership/JVs/royalties** (high-level; verify full legal docs where possible):
+    - **WBP (South Africa)**: held via **West Wits Mli Pty Ltd**; **74%** owned by West Wits Mining Ltd (via SA subsidiaries) and **26%** by **Lilitha Resources Pty Ltd** (local minority per SA requirements). Reported interests in the WBP tenements are **74%**.
+    - **Mt Cecilia (WA)**: reported as **100%** held by WWI (EL45/5045). Prior Rio Tinto farm-in rights lapsed in Dec 2025 per quarterly.
+    - **Derewo (Indonesia)**: minority interests disclosed across multiple IUPs (29%–64%); company notes potential compliance/cancellation risk for exploration IUPs.
 
 ### 2) Business model + value drivers (mining heuristics)
 - **What drives value**:
@@ -36,20 +48,65 @@
 - **Key dependencies**:
   - Commodity prices, FX, permitting/regulatory timelines, capital markets
 
-### 3) Asset/Project inventory (repeat per asset)
-For each project/asset, capture:
-- **Location**: TBD
-- **Interest / earn-in**: TBD
-- **Commodities**: TBD
-- **Geology / style**: TBD
-- **Resource/Reserve**:
-  - **JORC resource**: TBD (tonnes, grade, contained metal, date)
-  - **Reserves**: TBD (if any)
-- **Work completed**: TBD (drilling, metallurgical work, studies)
-- **Upcoming work program**: TBD
-- **Permits/licences**: TBD
-- **Economics (if study exists)**: NPV/IRR/capex/opex/AISC/payback (TBD)
-- **Key risks for this asset**: TBD
+### 3) Asset/Project inventory (factsheets)
+
+#### A) Witwatersrand Basin Project (WBP) — Gauteng, South Africa
+- **Location**: ~15km west of Johannesburg (Gauteng Province), South Africa
+- **Interest / ownership**:
+  - Tenements reported held at **74%** (via West Wits Mli Pty Ltd structure; see snapshot)
+  - Tenements include **MR 10073**, **PR 10730**, **PR 10839**
+- **Commodities**: gold (plus uranium exploration target(s) referenced by company)
+- **Geology / style**: Central Rand Goldfield, Witwatersrand Supergroup conglomerate “reef” horizons; WBP focuses on **Kimberley Reef (K9B & K9A), Bird Reef, Main Reef & Main Reef Leader**
+- **Tenure / licences (dates as disclosed)**:
+  - **MR 10073** (Mining Right): granted **16/07/2021**
+  - **PR 10730** (Prospecting Right): granted **12/12/2024**
+  - **PR 10839** (Prospecting Right): granted **18/12/2025** (reported in quarterly as granted 29 Dec 2025 by DMPR)
+- **Resource/Reserve (primary-source numbers)**:
+  - **Global JORC (2012) Mineral Resource Estimate (WBP)** (as at **1 Feb 2026**): **56.44Mt @ 4.00 g/t Au = 7.244Moz Au**
+    - **Measured**: 14.08Mt @ 4.40 g/t = 1.991Moz
+    - **Indicated**: 15.55Mt @ 4.04 g/t = 2.020Moz
+    - **M&I**: 29.63Mt @ 4.21 g/t = 4.012Moz
+    - **Inferred**: 26.81Mt @ 3.75 g/t = 3.232Moz
+  - **PR 10839 contribution** (Kimberley Reefs): **~1.2Moz @ 4.38 g/t Au** (company statement)
+  - **Ore reserve (Qala Shallows DFS, company-stated in Feb 2026 resource update)**: **4.6Mt for 384koz Au**; company states **944koz** production over a **~17-year** LOM (includes Inferred Mineral Resources in the production target per note)
+- **Development status / operations (Qala Shallows “Stage 1”)**:
+  - Transitioned from mobilisation to underground development and production in Oct 2025; **first underground ore delivered to surface mid-Oct 2025**; stockpiling underway
+  - Planned **toll processing at Sibanye-Stillwater’s Ezulwini Plant**; company targets delivery of **30,000 tonnes of ore by Mar 2026** and **first gold pour Mar 2026**
+  - Company states steady-state target of **~70,000oz p.a.** (referenced in Feb 2026 resource update as “fully funding ... to 70,000oz per annum steady-state production”)
+- **Near-term work program (as disclosed)**:
+  - Re-assess declared MREs on **K9B KRC, Bird Reef, Main Reef, Main Reef Leader** at lower cut-off grade
+  - Ongoing underground sampling + cover drilling linked to mine development/production
+  - **Diamond drilling** targeting **gold and uranium mineralisation** on **Bird Reef Central** (within MR 10073)
+  - Progress **Project 200** scoping study (expansion concept)
+- **Key project-specific risks / gating items (non-exhaustive)**:
+  - Execution risk (underground development, ramp-up, grade reconciliation)
+  - Metallurgy/processing risk tied to toll-treatment pathway and schedule
+  - Permitting/regulatory and local stakeholder risk in South Africa
+  - Funding / dilution and debt covenant/availability risk during ramp to cashflow
+
+#### B) Mt Cecilia Project (EL45/5045) — Paterson Province, Western Australia (100%)
+- **Location**: Paterson Province, Western Australia (EL45/5045)
+- **Interest / earn-in**: reported **100%** held by WWI
+  - Company notes a prior **A$10m farm-in/JV** with **Rio Tinto Exploration Pty Ltd** to earn up to 80% (two-stage), but states **Stage-1 period expired Dec 2025** and Rio Tinto’s farm-in rights lapsed after spending ~A$1.5m vs A$4m requirement
+- **Commodities**: gold (+ copper referenced by company)
+- **Work completed (as summarised by WWI)**:
+  - Dec 2022 maiden drilling of target **SGC_1**: **4 drill holes**, **1,036m** total
+  - Highlight intercepts (as summarised in Jan 2026 quarterly):
+    - **WEWI0001**: 20m @ 0.93 g/t Au within 56m @ 0.55 g/t Au
+    - **WEWI0004**: 24m @ 0.95 g/t Au within 82m @ 0.51 g/t Au
+- **Upcoming work program (company stated)**:
+  - Follow-up drilling of SGC_1 in the **2026 field season** under existing heritage surveys
+  - WWI assessing options for company-led exploration vs potential third-party divestment/partnering
+- **Key risks**: exploration risk (discovery), access/heritage timing, funding/partnering, commodity price sentiment for juniors
+
+#### C) Derewo Project — Indonesia (legacy; divestment focus)
+- **Location**: Indonesia (Paniai Regency / Intan Jaya / Nabire areas as per IUP listings)
+- **Interests (as disclosed in Jan 2026 quarterly)**:
+  - **Production IUP No. 47/2010 (Derewo)**: **29%**
+  - **Exploration IUPs (Derewo)**: **64%** across multiple licences (Nos. 76/2010, 31/2010, 543/142/SET)
+  - Company flags exploration IUPs may no longer be within compliance period and could be subject to cancellation
+- **Status**: no substantive activities; company seeking interested parties to divest
+- **Key risks**: tenure validity/compliance, minority structure, political/regulatory, asset liquidity
 
 ### 4) Investment thesis (bull / base / bear)
 - **Bull case** (what must be true):
@@ -64,9 +121,15 @@ For each project/asset, capture:
 ### 5) Catalysts + timeline (next 6/12/24 months)
 | Horizon | Expected catalyst | Why it matters | Dependency / gating item | Source to verify |
 |---|---|---|---|---|
-| 0–6 months | TBD | TBD | TBD | ASX announcement / quarterly |
-| 6–12 months | TBD | TBD | TBD | Study / permit / financing docs |
-| 12–24 months | TBD | TBD | TBD | Company guidance / project schedule |
+| 0–6 months | **First gold pour / initial processing (target: Mar 2026)** | Transition from developer → producer; first revenue; validates operating plan | Deliver 30,000t ore; toll-treatment start at Ezulwini; commissioning readiness | 2026-01-23 quarterly; 2026-02-02 resource update |
+| 0–6 months | **Ore deliveries to surface + stockpile build (ongoing)** | Leading indicator for March processing readiness | Underground development progress; fleet + workforce ramp | 2026-01-23 quarterly |
+| 0–6 months | **Updated global JORC MRE (completed; 7.24Moz @ 4.0g/t)** | Upgrades scale/optionalities; supports mine-life expansion narrative | Ongoing MRE work for other reefs at lower cut-off | 2026-02-02 resource update |
+| 0–6 months | **Project 200 scoping study workstream (progress)** | Frames expansion pathway and capex/opex assumptions for valuation | Study scope, engineering, permitting and funding pathway | 2026-02-02 resource update; 2026-01-20 raise announcement |
+| 0–6 months | **BRC / Bird Reef Central drilling (gold + uranium target)** | Tests “second leg” upside (uranium + additional reef potential) | Drill approvals, access, funding allocation | 2026-02-02 resource update; 2026-01-20 raise announcement |
+| 6–12 months | **Ramp toward steady-state production (~70koz p.a. referenced)** | Determines cash generation, unit costs, debt service capacity | Sustained mining rates; plant performance (toll treat); grade | 2026-02-02 resource update; future quarterlies |
+| 6–12 months | **Further MRE updates (other reefs at lower cut-off)** | Potential additional resource conversion and project life extension | Re-modelling, economic parameter updates, data collection | 2026-02-02 resource update; future ASX releases |
+| 12–24 months | **Project 200 decision point (proceed/park)** | Defines medium-term growth trajectory vs “single-mine” story | Study results; capital availability; permitting | Future ASX releases |
+| 12–24 months | **Mt Cecilia follow-up drilling / partnering outcome** | Optionality outside SA; asset monetisation or discovery leverage | Funding/partner; field season execution | 2026-01-23 quarterly; future ASX releases |
 
 ### 6) Financial overview framework (focus: cash + dilution)
 **Goal**: determine cash runway, burn rate, funding need timing, and dilution risk.
@@ -190,4 +253,7 @@ Key citations used for cash/runway + capital structure:
 - **[Appendix 2A - Application for quotation of securities (WWI ordinary shares)](https://announcements.asx.com.au/asxpdf/20260127/pdf/06vlw4ggk8lrk8.pdf)** — *2026-01-27* — supports: “Issued capital snapshot (ordinary shares, quoted options, unquoted options/warrants/convertibles/performance rights).”
 - **[WWI Completes A$17.5 million Placement to Accelerate Gold Production at Qala Shallows](https://announcements.asx.com.au/asxpdf/20250915/pdf/06p6ts085dbtpk.pdf)** — *2025-09-15* — supports: “A$17.5m placement terms (shares issued and price).”
 - **[Upsizing of Institutional Placement](https://announcements.asx.com.au/asxpdf/20260122/pdf/06vgy03372xd1f.pdf)** — *2026-01-22* — supports: “Placement upsized to A$33.74m and the number of shares/options implied.”
+- **[WWI Raises A$27.5M to Advance Gold and Uranium Projects](https://announcements.asx.com.au/asxpdf/20260120/pdf/06vf99fm6ywfp6.pdf)** — *2026-01-20* — supports: “Stated use of funds (Qala Shallows development; Project 200 scoping study; BRC uranium drilling) and attaching option terms.”
+- **[Quarterly Activity Report (Reporting Period 1 October – 31 December 2025) + Appendix 5B](https://announcements.asx.com.au/asxpdf/20260123/pdf/06vj8v3nlt4skk.pdf)** — *2026-01-23* — supports: “Qala Shallows operational progress (ore to surface; stockpiling; target first gold Mar 2026), toll-treat plan at Ezulwini, and tenement interests (WBP/Mt Cecilia/Derewo).”
+- **[2.2Moz Increase to WBP Global JORC Mineral Resource Estimate to 7.24Moz Gold](https://announcements.asx.com.au/asxpdf/20260202/pdf/06vvhp4zxswsgh.pdf)** — *2026-02-02* — supports: “Global WBP JORC MRE totals and M&I/Inferred breakdown; PR 10839 contribution; stated DFS reserve/LOM/production target references; planned next-step work program (Project 200, Bird Reef Central drilling).”
 
