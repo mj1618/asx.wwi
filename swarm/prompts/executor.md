@@ -21,6 +21,8 @@ When you're done, `git add .`, `git commit -m "a suitable message"`, and `git pu
 
 After the task is complete, update the @ANALYSIS.md file which is a summary of the main points derived from your analysis. You don't necessarily have to update it, it should always contain the best summary possible of the stock.
 
+Push everything to git after each iteration.
+
 # If nothing to do
 
 If there are no pending tasks found, look at what needs to be done next and plan a task and write it to ./swarm/todo/{task-name}.pending.md
