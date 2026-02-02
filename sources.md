@@ -10,19 +10,36 @@
 ### 1) ASX market announcements (last 24 months minimum)
 Goal: build a dated timeline of all material updates and capital structure changes.
 
-- [ ] **All ASX announcements feed** (search by ticker and company name)
-  - [ ] Quarterly activities reports
-  - [ ] Appendix 5B (quarterly cashflow report)
-  - [ ] Capital raises (placements/SPP/rights issues), Appendix 2A share issues
-  - [ ] Options/warrants issues + cleansing notices
-  - [ ] Project updates (drilling results, resource updates, studies, permits)
+- [x] **All ASX announcements feed** (search by ticker and company name)
+  - **[ASX WWI historical announcements search](https://www.asx.com.au/asx/v2/statistics/announcements.do?by=asxCode&asxCode=WWI)** — *2026-02-02* — supports: “Canonical entry point for the complete, dated ASX announcements list for WWI (year/period filters).”
+  - [x] Quarterly activities reports
+  - [x] Appendix 5B (quarterly cashflow report)
+  - [x] Capital raises (placements/SPP/rights issues), Appendix 2A share issues
+  - [x] Options/warrants issues + cleansing notices
+  - [x] Project updates (drilling results, resource updates, studies, permits)
   - [ ] Acquisitions/disposals/JV agreements/terms sheets
-  - [ ] Trading halts + reasons
+  - [x] Trading halts + reasons
   - [ ] Director interest notices (Appendix 3X/3Y/3Z)
   - [ ] Change of substantial holding (substantial holder notices)
 
+Primary documents captured (used in `announcements.md` + `ANALYSIS.md`):
+- **[Quarterly Activity Report (Reporting Period 1 January – 31 March 2024) + Appendix 5B](https://announcements.asx.com.au/asxpdf/20240424/pdf/062tscwss13v0m.pdf)** — *2024-04-24* — supports: “Appendix 5B cashflow lines (operating/investing/financing; ending cash 31 Mar 2024).”
+- **[Quarterly Activity Report (Reporting Period 1 April – 30 June 2024) + Appendix 5B](https://announcements.asx.com.au/asxpdf/20240715/pdf/065ldqk4cmzzgq.pdf)** — *2024-07-15* — supports: “Appendix 5B cashflow lines (ending cash 30 Jun 2024) and placement disclosure (A$1.4m at A$0.013; 107,692,308 shares).”
+- **[Quarterly Activity Report (Reporting Period 1 July – 30 September 2024) + Appendix 5B](https://announcements.asx.com.au/asxpdf/20241029/pdf/069qs5cqm29q1b.pdf)** — *2024-10-29* — supports: “Appendix 5B cashflow lines (ending cash 30 Sep 2024) and convertible note financing disclosure (A$1.5m CNs; 37.5m unlisted options).”
+- **[Quarterly Activity Report (Reporting Period 1 October – 31 December 2024) + Appendix 5B](https://announcements.asx.com.au/asxpdf/20250128/pdf/06dwbjhfgsn09d.pdf)** — *2025-01-28* — supports: “Appendix 5B cashflow lines (ending cash 31 Dec 2024).”
+- **[Quarterly Activity Report (Reporting Period 1 January – 31 March 2025) + Appendix 5B](https://announcements.asx.com.au/asxpdf/20250424/pdf/06j0ddypv7lvgw.pdf)** — *2025-04-24* — supports: “Appendix 5B cashflow lines (ending cash 31 Mar 2025).”
+- **[Quarterly Activity Report (Reporting Period 1 April – 30 June 2025) + Appendix 5B](https://announcements.asx.com.au/asxpdf/20250728/pdf/06m6tpt15hlnml.pdf)** — *2025-07-28* — supports: “Appendix 5B cashflow lines (ending cash 30 Jun 2025) and equity placement disclosure (~A$14m at A$0.022; 652,636,348 shares).”
+- **[WWI Completes A$17.5 million Placement to Accelerate Gold Production at Qala Shallows](https://announcements.asx.com.au/asxpdf/20250915/pdf/06p6ts085dbtpk.pdf)** — *2025-09-15* — supports: “A$17.5m placement details (437.5m shares at A$0.04).”
+- **[Quarterly Activity Report (Reporting Period 1 July – 30 September 2025) + Appendix 5B](https://announcements.asx.com.au/asxpdf/20251029/pdf/06r62jp33jfwb3.pdf)** — *2025-10-29* — supports: “Appendix 5B cashflow lines (ending cash 30 Sep 2025), including investing ‘Other’ payment note for minority buy-back (USD 5.09m).”
+- **[WWI Raises A$27.5M to Advance Gold and Uranium Projects](https://announcements.asx.com.au/asxpdf/20260120/pdf/06vf99fm6ywfp6.pdf)** — *2026-01-20* — supports: “A$27.5m placement details (343.75m shares at A$0.08; 1 unlisted option per 2 shares).”
+- **[Upsizing of Institutional Placement](https://announcements.asx.com.au/asxpdf/20260122/pdf/06vgy03372xd1f.pdf)** — *2026-01-22* — supports: “Placement upsized to A$33.74m (421.75m shares at A$0.08; 1 unlisted option per 2 shares; Tribeca A$10m strategic).”
+- **[Appendix 2A - Application for quotation of securities (WWI ordinary shares)](https://announcements.asx.com.au/asxpdf/20260127/pdf/06vlw4ggk8lrk8.pdf)** — *2026-01-27* — supports: “Issued capital snapshot after quotation (ordinary shares + quoted/unquoted option/warrant counts).”
+- **[Appendix 3G - Notification of issue of unquoted equity securities](https://announcements.asx.com.au/asxpdf/20260128/pdf/06vnnr41ghqxts.pdf)** — *2026-01-28* — supports: “Incremental issuance of unquoted options; updated unquoted option total.”
+- **[Quarterly Activity Report (Reporting Period 1 October – 31 December 2025) + Appendix 5B](https://announcements.asx.com.au/asxpdf/20260123/pdf/06vj8v3nlt4skk.pdf)** — *2026-01-23* — supports: “Appendix 5B cashflow lines (ending cash 31 Dec 2025).”
+- **[2.2Moz Increase to WBP Global JORC Mineral Resource Estimate to 7.24Moz Gold](https://announcements.asx.com.au/asxpdf/20260202/pdf/06vvhp4zxswsgh.pdf)** — *2026-02-02* — supports: “Global JORC MRE update (7.24Moz @ 4.0g/t) and category breakdown table.”
+
 Deliverable to build from this:
-- [ ] **Announcement timeline table** (date, headline, category, key numbers, link)
+- [x] **Announcement timeline table** (date, headline, category, key numbers, link) — see `announcements.md`
 
 ---
 
@@ -32,11 +49,11 @@ Deliverable to build from this:
   - [ ] Share-based payment notes (options, performance rights)
   - [ ] Related party disclosures
 - [ ] **Half-year report** — latest (if applicable)
-- [ ] **Quarterly cashflow reports (5B)** — last 8 quarters
+- [x] **Quarterly cashflow reports (5B)** — last 8 quarters (see the eight quarterly/5B PDFs listed above, plus 23 Jan 2026 report for quarter ended 31 Dec 2025)
 
 Deliverables to build from this:
-- [ ] Quarterly cashflow table (burn, exploration spend, ending cash)
-- [ ] Capital structure reconciliation (shares/options movements)
+- [x] Quarterly cashflow table (burn, exploration spend, ending cash) — see `ANALYSIS.md` section “Financial overview framework (focus: cash + dilution)”
+- [x] Capital structure snapshot (shares/options movements) — see `ANALYSIS.md` section “Capital structure + dilution risk”
 
 ---
 

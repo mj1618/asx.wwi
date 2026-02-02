@@ -30,5 +30,13 @@ The deep-dive outline is ready (`ANALYSIS.md` + `sources.md`). The next bottlene
 - Requires web access to ASX/company filings.
 
 ### Completion notes
-TBD.
+- Added `announcements.md` with a curated, cited timeline for the last ~24 months (quarterlies/Appendix 5B, major placements, and key project/resource updates).
+- Updated `sources.md` with:
+  - ASX announcements search entry point for WWI
+  - Direct stable `announcements.asx.com.au/asxpdf/...` links for the last 8 quarterly/5B reports
+  - Capital raise announcements and Appendix 2A/3B/3G capital structure filings (with dates and “supports” notes)
+- Updated `ANALYSIS.md` with:
+  - Last 8 quarters of Appendix 5B cashflow lines (operating/investing/financing + ending cash)
+  - Runway estimates (including the company’s reported “estimated quarters of funding available”)
+  - Capital structure snapshot (basic shares, quoted/unquoted options, warrants, performance rights) from the latest Appendix 2A
 
