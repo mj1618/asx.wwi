@@ -54,7 +54,7 @@ Dilutive instruments disclosed on the same date (counts only; strike/expiry vary
 - Unquoted options: 171,088,599
 - Unquoted warrants: 166,933,764
 - Performance rights: 5,000,000
-- (Convertible notes exist; conversion outcomes are not fully captured in this simple tally)
+- Convertible notes: 2 disclosed as on issue (see note below)
 
 Primary source:
 - **[Appendix 2A - Application for quotation of securities (WWI ordinary shares)](https://announcements.asx.com.au/asxpdf/20260127/pdf/06vlw4ggk8lrk8.pdf)** — *2026-01-27*
@@ -65,12 +65,36 @@ A simple “fully diluted (ex-CNs)” share count is:
 4.319b + 0.320b + 0.171b + 0.167b + 0.005b \approx 4.982b
 \]
 
+### 4.1 Convertible notes (CN) — incremental shares (now modelled)
+
+Convertible notes were originally disclosed as **A$1.5m** (A$25k per note) with conversion at:
+- **A$0.02 until 17 Jan 2025**
+- thereafter **min(A$0.02, 0.8 × 15‑day VWAP)**
+
+By the quarter ended **31 Dec 2025**, WWI disclosed that **A$1.45m** of CNs had already converted to ordinary shares, leaving **2 CNs totalling A$50k** outstanding.
+
+Primary sources:
+- **[Quarterly (Sep 2024) + Appendix 5B](https://announcements.asx.com.au/asxpdf/20241029/pdf/069qs5cqm29q1b.pdf)** — *2024-10-29*
+- **[Quarterly (Dec 2025) + Appendix 5B](https://announcements.asx.com.au/asxpdf/20260123/pdf/06vj8v3nlt4skk.pdf)** — *2026-01-23*
+- **[Appendix 2A - Application for quotation of securities](https://announcements.asx.com.au/asxpdf/20260127/pdf/06vlw4ggk8lrk8.pdf)** — *2026-01-27*
+
+For the **A$50k** remaining CN principal:
+- At **A$0.02** conversion price → **2.50m** shares
+- At **A$0.017** conversion price (illustrative discounted example) → **2.94m** shares
+
+So an updated **fully diluted incl. CNs** share count is approximately:
+
+\[
+\text{FD incl. CNs} \approx 4.982b + (2.5m \text{ to } 2.94m) \approx 4.9845b \text{ to } 4.9849b
+\]
+
 ## 5) What the simple NPV-per-share implies (not risk-adjusted)
 
 If you naively capitalise the DFS post-tax NPV7.5 (All Resources) as “equity value” (it’s closer to a project value anchor and omits many real-world frictions), you get:
 
 - **Basic**: \(525m\ AUD / 4.319b \approx 0.122\ AUD/share\)
 - **FD (ex-CNs)**: \(525m\ AUD / 4.982b \approx 0.105\ AUD/share\)
+- **FD (incl. CNs)**: \(525m\ AUD / \sim 4.985b \approx 0.105\ AUD/share\) *(difference vs ex‑CNs is negligible at current disclosed CN balance)*
 
 This is **not** a prediction; it’s a sanity-check anchor to compare against market price once you apply:
 - execution / schedule risk (first gold + ramp)

@@ -28,7 +28,7 @@ This repo’s working snapshot (secondary market data) frames WWI as a “rerate
 - **Share price**: ~A$0.077 (Google Finance snapshot, 2026-02-02)  
 - **Market cap**: ~A$351.6m (Google Finance snapshot, 2026-02-02)  
 - **Basic shares**: 4,319,419,767 (ASX Appendix 2A, 2026-01-27)  
-- **Selected dilutive instruments (counts, 2026-01-27)**: quoted options 319.6m; unquoted options 171.1m; unquoted warrants 166.9m; performance rights 5.0m; (convertible notes also exist; conversion not fully modelled in the simple tally).  
+- **Selected dilutive instruments (counts, 2026-01-27)**: quoted options 319.6m; unquoted options 171.1m; unquoted warrants 166.9m; performance rights 5.0m; **convertible notes** were largely converted by the Dec 2025 quarter (company disclosed **A$50k / 2 notes** outstanding) — see `financing.md`.  
 
 ### The 5–10 most important things to know (facts + implications)
 - **Production transition is the whole story for the next ~12–24 months**: WWI’s near-term rerate (or de-rate) is dominated by **first gold + ramp execution**, not by the headline 7.24Moz resource. (Quarterly 2026-01-23; MRE 2026-02-02)
@@ -101,6 +101,7 @@ As at **31 Dec 2025**, WWI reported:
 WWI’s capital structure is already large on a per-share basis:
 - **Basic shares** (2026-01-27): **4.319b**
 - **Simple “fully diluted ex-convertibles”** (adds options/warrants/perf rights counts): ~**4.982b** (see `valuation.md`)
+- **Fully diluted incl. remaining CN conversion**: ~**4.985b** (adds ~2.5m–2.9m shares for the remaining A$50k CN balance; see `valuation.md` / `financing.md`)
 
 Recent raises have been large and frequent (examples captured in `announcements.md`):
 - 2025-09-15: **A$17.5m** placement @ **A$0.04**

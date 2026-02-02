@@ -12,6 +12,7 @@ For the repeatable update protocol (what to check, how often, and where to recor
 ### Changelog (single source of truth)
 - **2026-02-02**: Added `monitoring.md` (ongoing monitoring + post–first gold update protocol) and wired it into the repo docs. No new primary filings were added beyond the existing 2026-02-02 anchor.
 - **2026-02-02**: Built a governance/insider “dashboard” in `ownership.md`: Appendix 5B item 6 related-party payments trend (last 8 quarters), plus an explicit 603/604 check against ASX year-view indices (none found for 2024–2026).
+- **2026-02-02**: Added `financing.md` and updated dilution mechanics to explicitly model **convertible note (CN) conversion shares** and **facility-linked equity sweeteners** (Nebari warrants; Absa fee-settlement options) using primary filings through the Dec 2025 quarter and Jan 2026 Appendix 2A.
 
 ### 1) Company snapshot (fill from latest filings)
 - **Company**: West Wits Mining Limited
@@ -183,7 +184,9 @@ For the repeatable update protocol (what to check, how often, and where to recor
 - **Options/warrants/convertibles (selected overhang disclosed in primary filings)**:
   - Unquoted options (aggregate): 171,088,599 (as at 2026-01-27)
   - Unquoted warrants: 166,933,764 (as at 2026-01-27) *(Nebari warrants referenced in quarterly report for quarter ended 31 Dec 2025)*
-  - Convertible notes: 2 (as at 2026-01-27)
+  - Convertible notes: 2 (as at 2026-01-27). CN mechanics are now captured in `financing.md`:
+    - Originally disclosed as A$1.5m CNs (A$25k per note) with conversion at A$0.02 (cap) or 80% of 15‑day VWAP post 17 Jan 2025 (whichever is lower).
+    - As at the **31 Dec 2025** quarter filing, WWI disclosed **A$1.45m** had converted prior to the reporting date, leaving **A$50k (2 notes)** outstanding (so incremental dilution from remaining CNs is small on current numbers).
   - Performance rights: 5,000,000 (as at 2026-01-27)
 - **Recent raises (equity)**:
   - 2025-09-15: A$17.5m placement; 437.5m shares @ A$0.04
@@ -292,6 +295,7 @@ Define peer set by:
 **Dilution matters**: per-share outcomes depend as much on **share count growth** (funding path + option/warrant exercises) as on project value. Use both:
 - **Basic shares**: 4,319,419,767 (2026-01-27)
 - **Simple fully diluted (ex-convertibles)**: ~4,982,000,000 = basic + quoted options + unquoted options + warrants + perf rights (counts as at 2026-01-27)
+- **Fully diluted (incl. remaining CN conversion)**: ~4,985,000,000 (adds ~2.5m–2.9m shares for the A$50k outstanding CN balance disclosed at 31 Dec 2025; see `financing.md` / `valuation.md`)
 
 Valuation method used below: **risked / discounted DFS NPV triangulation** + explicit **share-count (dilution) ranges**. This is intentionally “wide band” to avoid precision theatre.
 
