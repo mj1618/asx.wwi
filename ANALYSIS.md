@@ -204,9 +204,23 @@ Define peer set by:
 - project stage (explorer / developer / producer)
 - size (market cap and resource scale)
 
-**Candidate peers (TBD)**:
-- ASX-listed juniors with similar stage/commodity
-- Comparable jurisdiction developers/explorers
+**Candidate peers (initial; see `peers.md` for sources + caveats)**:
+- **AU developers / early producers (stage comps)**:
+  - **BGL** (Bellevue Gold) — high-grade underground; early producer; useful “quality producer” anchor.
+  - **MEK** (Meeka Metals) — developer→producer transition; published DFS economics; dilution-cap-structure lens.
+  - **OBM** (Ora Banda Mining) — WA producer/ramp; useful “ramp execution” comparison.
+  - **STN** (Saturn Metals) — bulk-tonnage / heap-leach pathway; developer lens for low-grade projects.
+  - **GMD** (Genesis Minerals) — consolidation-driven build-out; included as “developer rerate” example.
+- **AU-listed Africa / SA exposure (jurisdiction discount comps)**:
+  - **TGM** (Theta Gold Mines) — South Africa developer with BEE ownership complexity (closest structural analogue).
+  - **WAF** (West African Resources) — Burkina Faso producer; “SSA but de-risked producer” anchor.
+  - **PRU** (Perseus Mining) — multi-mine West Africa producer; “self-funding” counterexample.
+  - **RSG** (Resolute Mining) — Africa producer + dev pipeline; provides project-NPV reference via Doropo DFS update.
+
+### What comps imply vs current price (directional)
+- **Resource-scale EV/oz can make WWI look “cheap”** if you use the large global MRE (especially including Inferred), but this mostly measures the market’s **discount-to-conversion** (reserve conversion + funding + ramp execution + jurisdiction + dilution), not “undervaluation”.
+- **Reserve-based framing makes WWI look much less cheap** because the DFS reserve base is small relative to EV — consistent with the market saying: “pay for near-term mineable ounces, not the whole 7.24Moz story yet.”
+- The most relevant near-term rerate trigger is still operational: **first gold + stable ramp**, because that’s what can move WWI from a “developer discount” toward more producer-like multiples (and reduce the market’s haircut to DFS/NAV anchors).
 
 ### 10) Management, governance, and alignment
 - **Board + key management (latest captured: Annual Report FY2025)**:

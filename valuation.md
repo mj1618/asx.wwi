@@ -89,3 +89,18 @@ To avoid “precision theatre”, the scenario valuation in `ANALYSIS.md`:
 Secondary market snapshot used only for context:
 - **[Google Finance — ASX:WWI quote](https://www.google.com/finance/quote/WWI:ASX)** — *2026-02-02*
 
+## 7) Peer multiples cross-check (sanity check)
+
+This is a **triangulation tool**, not a standalone valuation method. See `peers.md` for the peer list, sources, and caveats.
+
+### WWI quick multiples (as-of the repo’s current snapshot)
+- **EV (proxy)**: \(\approx\) market cap + debt − cash \(\approx 351.6 + 18.7 - 22.2 \approx A\$348m\) (cash/debt per Dec 2025 quarterly; market cap per Google Finance snapshot).
+- **EV / attributable global resource (JORC MRE)**: \(\approx A\$348m / (0.74 \times 7.244Moz) \approx A\$65/oz\).
+- **EV / attributable DFS reserve**: \(\approx A\$348m / (0.74 \times 384koz) \approx A\$1,225/oz\).
+- **EV / attributable DFS NPV7.5 (headline)**: \(\approx A\$348m / A\$525m \approx 0.66\).
+
+### How to interpret the peer cross-check for WWI
+- Treat **EV/oz (Resource)** as a **discount-to-conversion** signal (how much the market doubts conversion to cashflow), not “cheapness”.
+- Treat **EV/oz (Reserve)** as the “near-term cashflow credibility” signal (how much the market is paying for *mineable ounces*).
+- For WWI, the practical question is whether a **producer rerate** (higher EV/NPV) happens *before* dilution dominates per-share outcomes; this is tightly linked to **first gold + ramp** and **funding strategy**.
+

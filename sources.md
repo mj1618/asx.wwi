@@ -134,6 +134,34 @@ Market data references used for current snapshot (secondary sources; validate ag
 - **[Google Finance — ASX:WWI quote](https://www.google.com/finance/quote/WWI:ASX)** — *2026-02-02* — supports: “Indicative share price and market cap snapshot used to contextualise valuation per-share ranges.”
 - **[Google Finance — AUD/USD](https://www.google.com/finance/quote/AUD-USD)** — *2026-02-02* — supports: “Indicative FX used for USD→AUD conversions in valuation math.”
 
+Peer comps market-data snapshots used (secondary; as-of 2026-02-02):
+- **[TradingView — ASX:WWI](https://www.tradingview.com/symbols/ASX-WWI/)** — *2026-02-02* — supports: “Peer comps market-cap snapshot (secondary).”
+- **[TradingView — ASX:BGL](https://www.tradingview.com/symbols/ASX-BGL/)** — *2026-02-02* — supports: “Peer comps market-cap snapshot (secondary).”
+- **[TradingView — ASX:OBM](https://www.tradingview.com/symbols/ASX-OBM/)** — *2026-02-02* — supports: “Peer comps market-cap snapshot (secondary).”
+- **[TradingView — ASX:CMM](https://www.tradingview.com/symbols/ASX-CMM/)** — *2026-02-02* — supports: “Peer comps market-cap snapshot (secondary).”
+- **[TradingView — ASX:PRU](https://www.tradingview.com/symbols/ASX-PRU/)** — *2026-02-02* — supports: “Peer comps market-cap snapshot (secondary).”
+- **[TradingView — ASX:WAF](https://www.tradingview.com/symbols/ASX-WAF/)** — *2026-02-02* — supports: “Peer comps market-cap snapshot (secondary).”
+- **[TradingView — ASX:RSG](https://www.tradingview.com/symbols/ASX-RSG/)** — *2026-02-02* — supports: “Peer comps market-cap snapshot (secondary).”
+- **[TradingView — ASX:TGM](https://www.tradingview.com/symbols/ASX-TGM/)** — *2026-02-02* — supports: “Peer comps market-cap snapshot (secondary).”
+- **[TradingView — ASX:STN](https://www.tradingview.com/symbols/ASX-STN/)** — *2026-02-02* — supports: “Peer comps market-cap snapshot (secondary).”
+- **[TradingView — ASX:MEK](https://www.tradingview.com/symbols/ASX-MEK/)** — *2026-02-02* — supports: “Peer comps market-cap snapshot (secondary).”
+- **[TradingView — ASX:RMS](https://www.tradingview.com/symbols/ASX-RMS/)** — *2026-02-02* — supports: “Peer comps market-cap snapshot (secondary).”
+- **[TradingView — ASX:GMD](https://www.tradingview.com/symbols/ASX-GMD/)** — *2026-02-02* — supports: “Peer comps market-cap snapshot (secondary).”
+
+Peer comps primary/technical sources added:
+- **[Bellevue Gold — Annual Report 2025](https://bellevuegold.com.au/wp-content/uploads/2025/08/Annual-Report-2025.pdf)** — *2025-08* — supports: “BGL resources/reserves, FY25 AISC and cash/debt snapshot used in comps.”
+- **[Saturn Metals — Apollo Hill Gold Resource increases to 2.24Moz](https://saturnmetals.com.au/wp-content/uploads/2025/07/250718-Apollo-Hill-Gold-Resource-Update-July-2025-2.24Moz.pdf)** — *2025-07-18* — supports: “STN JORC MRE ounces and grade used in comps.”
+- **[Theta Gold Mines — Optimised TGME Feasibility Study announcement](https://announcements.asx.com.au/asxpdf/20250930/pdf/06py58b65624xd.pdf)** — *2025-09-30* — supports: “TGM published FS economics (flag: later retraction notice; treat forecast info cautiously).”
+- **[Theta Gold Mines — Funding package + retraction note](https://announcements.asx.com.au/asxpdf/20251007/pdf/06q716kbl7m10v.pdf)** — *2025-10-07* — supports: “TGM funding terms and the company’s warning about relying on the prior FS forecast/targets.”
+- **[Resolute Mining — Updated Doropo DFS confirms strong project economics](https://www.rml.com.au/wp-content/uploads/2025/12/20251215-RSG-ASX-Doropo-DFS-Update.pdf)** — *2025-12-15* — supports: “Doropo Ore Reserve, AISC, NPV/IRR sensitivity and net cash disclosure used in comps.”
+
+Peer comps company website summaries (secondary, used when primary PDFs were inaccessible in-session):
+- **[Ora Banda Mining — homepage](https://orabandamining.com.au/)** — *2026-02-02* — supports: “OBM stated resource/reserve totals and grades used in comps.”
+- **[Capricorn Metals — homepage](https://capmetals.com.au/)** — *2026-02-02* — supports: “CMM stated total resource/reserve ounces used in comps.”
+- **[Perseus Mining — Our Operations](https://perseusmining.com/our-operations/)** — *2026-02-02* — supports: “PRU stated M&I resources and P&P reserves (ounces) and FY25 AISC used in comps.”
+- **[West African Resources — homepage](https://www.westafricanresources.com/)** — *2026-02-02* — supports: “WAF stated total resources and ore reserves (ounces) used in comps.”
+- **[Meeka Metals — homepage](https://meekametals.com.au/)** — *2026-02-02* — supports: “MEK stated resource ounces/grade and DFS2.0 summary economics used in comps (primary DFS PDF still to capture).”
+
 ---
 
 ### 7) News / media (secondary, for context only)
