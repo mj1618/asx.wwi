@@ -41,7 +41,8 @@ For the repeatable update protocol (what to check, how often, and where to recor
   - **Market cap**: ~A$351.6m (Google Finance snapshot as at 2026-02-02; validate against broker/ASX)
   - **Cash**: A$22.246m (as at 31 Dec 2025 quarter end)
   - **Debt**: A$18.653m loan facilities drawn (as at 31 Dec 2025 quarter end; see Appendix 5B “financing facilities”)
-  - **Enterprise value (EV)**: TBD
+  - **Enterprise value (EV, proxy)**: ~**A$348.0m** \(=\) **A$351.6m** market cap *(as-of 2026-02-02)* \(+\) **A$18.653m** debt drawn *(as-of 31 Dec 2025)* \(−\) **A$22.246m** cash *(as-of 31 Dec 2025)*.
+    - Caveats: “debt” here is **drawn facilities disclosed in Appendix 5B** (excludes undrawn capacity and may exclude leases/other obligations); “cash” is a **quarter-end balance** and can move materially intra-quarter.
 - **Ownership/structure**:
   - **Major shareholders / register concentration (latest captured)**:
     - **Top 20 ordinary shareholders** hold **~43.50%** (as at **26 Sep 2025**, per Annual Report FY2025 “Shareholder information”).
@@ -134,7 +135,15 @@ For the repeatable update protocol (what to check, how often, and where to recor
   - Material slippage vs first-gold/ramp schedule and/or poorer-than-expected grade/throughput/cost outcomes drives additional dilutive raises at lower prices.
   - Financing covenants / facility access / toll-treat execution frictions amplify downside; the market prices WWI as a stressed developer rather than a producer.
 - **Variant view** (why WWI may be mispriced vs market consensus):
-  - TBD
+  - **The market may still be anchoring to “serial-raiser SA developer”** and not fully pricing the *discrete* de-risking step from “developer” → “cash-generating producer” if the **Mar 2026 first-gold** pathway is achieved and early ramp data is clean.  
+    - Evidence: ore delivered to surface and stockpiling underway; toll-treatment pathway and March target are disclosed.  
+    - Falsifier: first gold slips materially (e.g., beyond Q2 2026) and/or early quarters show weak reconciliation / high burn forcing discounted equity.
+  - **The “resource headline” may be underweighted relative to conversion optionality**: the 7.24Moz global MRE is large, but the market is discounting convertibility. If WWI converts more of the inventory into **reserves + repeatable tonnes/grade**, the “discount-to-conversion” could compress.  
+    - Falsifier: no meaningful reserve conversion / mine-life confidence improvement after first gold; production targets rely heavily on Inferred without a clear conversion path.
+  - **Incremental dilution from legacy convertibles is now small** (per disclosed residual CN balance), so dilution risk is increasingly about **future funding quality** (terms) rather than “known” CN mechanics.  
+    - Falsifier: repeated placement cycles with worsening discounts/attaching incentives, or new equity-linked sweeteners to financiers.
+  - **Governance optics are a real overhang — but they can also be a rerate lever** if related-party payments and cap-structure issuance cadence stabilise and disclosure quality improves during the producer transition.  
+    - Falsifier: Appendix 5B item 6 stays elevated or grows, or new related-party arrangements emerge without clear disclosure/oversight.
 
 ### 5) Catalysts + timeline (next 6/12/24 months)
 | Horizon | Expected catalyst | Why it matters | Dependency / gating item | Source to verify |
@@ -192,7 +201,17 @@ For the repeatable update protocol (what to check, how often, and where to recor
   - 2025-09-15: A$17.5m placement; 437.5m shares @ A$0.04
   - 2026-01-20: A$27.5m placement; 343.75m shares @ A$0.08; attaching unlisted options (1 per 2 shares; A$0.11 exercise, 3-year expiry)
   - 2026-01-22: upsized placement to A$33.74m; 421.75m shares @ A$0.08; attaching unlisted options (1 per 2 shares; A$0.11 exercise, 3-year expiry)
-- **Director dealings**: signals + constraints (TBD)
+- **Director dealings**: signals + constraints (interpretation framework)
+  - **Most Appendix 3Y activity captured in this repo is not “open-market buying/selling.”** For WWI it is dominated by:
+    - **placement participation / share issues** (structured price; often subject to shareholder approvals), and
+    - **incentive issuance + vesting/exercise** (e.g., performance rights issued and then converted to shares at **nil consideration**).
+  - **How to weight signals** (strongest → weakest):
+    - **Open-market buying with cash consideration** (especially outside capital-raise windows) is the cleanest “conviction” signal.
+    - **Placement participation** is supportive, but can reflect role-alignment and access rather than a “valuation call.”
+    - **Vesting/exercise at nil consideration** is *not* a bullish signal by itself; treat it primarily as **incentive design + dilution**.
+  - **Structural constraints**:
+    - **Nominee/custodian lines** can obscure beneficial ownership changes (see `ownership.md`), and substantial-holder movements can occur **below 5%** without a 603/604 trigger.
+    - Therefore, interpret director notices alongside **Top-20 snapshots**, **Appendix 5B related-party trend**, and **price/volume behaviour** around funding events.
   - **Appendix 3Y highlights (primary)** — see `ownership.md`:
     - Aug 2025: directors participated in a placement at **A$0.022** (plus Executive Chair received shares in repayment of loan/interest).
     - Dec 2025 → Jan 2026: incentive **performance rights issued** (Dec) and then **exercised/vested into shares** (Jan) at **nil consideration**.
@@ -274,20 +293,20 @@ Define peer set by:
     - Track **substantial holder notices** (new control/influence dynamics; liquidity overhang risk). *Note: no 603/604 filings were identified in the ASX 2024–2026 year-view indices as at 2026-02-02; the repo relies on annual-report snapshots + historical 603 where captured.*
 
 ### 11) Risk register (track leading indicators)
-| Risk | Why it matters | Likelihood (TBD) | Impact (TBD) | Mitigants | Leading indicators / watch items |
+| Risk | Why it matters | Likelihood (2y) | Impact | Mitigants | Leading indicators / watch items |
 |---|---|---:|---:|---|---|
-| Permitting/regulatory delay | Timeline slip, value leakage | TBD | TBD | TBD | Permit milestones missed |
-| Financing / dilution | Runway + cost of capital | TBD | TBD | TBD | Cash runway < 2–3 quarters |
-| Commodity price / FX | Changes project economics | TBD | TBD | TBD | Price deck vs spot diverges |
-| Execution / cost overrun | Capex blowouts | TBD | TBD | TBD | Study assumptions vs peers |
-| Jurisdiction/community | Licence to operate | TBD | TBD | TBD | Community/legal disputes |
-| Partner/JV risk | Misalignment on funding/work | TBD | TBD | TBD | JV disputes, earn-in delays |
-| Substantial-holder sell-down / placement overhang | A large holder distributing stock can cap rallies and pressure liquidity; can dominate price action in small/mid caps | TBD | TBD | Transparent placement strategy; broaden register where possible | Form 603/604 notices; broker placement allocations; unusual volume + persistent weakness; top-20 % changes in reports |
-| Register opacity / nominee-heavy concentration | Custodian/nominee lines obscure beneficial control and can mask “who is really selling/buying” | TBD | TBD | Better disclosure of strategic holders where possible; investor comms | Top-20 list composition (custodians); new nominee lines; sudden appearance/disappearance of a major line item |
-| Governance / related-party spend | Conflicts + cash leakage perception can raise cost of capital and impair trust | TBD | TBD | Board policies; audit oversight; disclosure cadence | Appendix 5B item 6 trend; related-party balances in annual report; new related-party contracts |
-| Incentive overhang / “cheap optionality” dilution | Options/warrants can cap rallies and create overhang; repeated issuance signals funding dependence | TBD | TBD | Clear incentive design; restrict resets; transparent cap-structure reporting | Appendix 2A/3B/3G frequency; term resets (strike/expiry); % of FD vs basic share count |
-| Key-person / execution continuity | Transition to producer is highly execution-led; leadership disruption can cascade into schedule/cost issues | TBD | TBD | Depth in ops team; succession planning | Board/exec turnover; hiring pace; safety incidents; sustained delivery vs targets |
-| Creditor / financier alignment | Debt facilities with equity-linked sweeteners can influence future dilution and covenant flexibility | TBD | TBD | Transparent facility terms; staged draws tied to milestones | New warrants/options to financiers; covenant disclosures; refinancing announcements |
+| Permitting/regulatory delay | Timeline slip, value leakage | Med | High | Maintain compliance discipline; actively track permit critical path; build schedule buffers in planning and investor expectations | Permit milestones missed |
+| Financing / dilution | Runway + cost of capital | High | High | Preserve runway; align funding to milestones; avoid repeated discounted raises where possible; monitor facility terms and equity-linked sweeteners | Cash runway < 2–3 quarters |
+| Commodity price / FX | Changes project economics | Med | Med–High | Use sensitivity thinking (price deck vs spot); consider hedging/disciplined cost control where feasible; do not underwrite a single gold-price regime | Price deck vs spot diverges |
+| Execution / cost overrun | Capex blowouts | Med | High | Stage-gated ramp; tight cost/contractor control; frequent reconciliation vs DFS assumptions; maintain contingency | Study assumptions vs peers |
+| Jurisdiction/community | Licence to operate | Med | High | Continuous stakeholder engagement; transparent compliance and local-partner alignment; rapid response to disputes | Community/legal disputes |
+| Partner/JV risk | Misalignment on funding/work | Low–Med | Med | Clarify JV/work obligations and decision rights; document milestone responsibilities; monitor partner communications | JV disputes, earn-in delays |
+| Substantial-holder sell-down / placement overhang | A large holder distributing stock can cap rallies and pressure liquidity; can dominate price action in small/mid caps | Med | Med–High | Transparent placement strategy; broaden register where possible; avoid “drip” supply shocks where controllable | Form 603/604 notices; broker placement allocations; unusual volume + persistent weakness; top-20 % changes in reports |
+| Register opacity / nominee-heavy concentration | Custodian/nominee lines obscure beneficial control and can mask “who is really selling/buying” | High | Med | Treat concentration as liquidity risk; triangulate using top-20 snapshots + announcements + persistent volume/price patterns | Top-20 list composition (custodians); new nominee lines; sudden appearance/disappearance of a major line item |
+| Governance / related-party spend | Conflicts + cash leakage perception can raise cost of capital and impair trust | Med | Med–High | Strong disclosure cadence; audit/board oversight; keep related-party spend explainable and stable through ramp window | Appendix 5B item 6 trend; related-party balances in annual report; new related-party contracts |
+| Incentive overhang / “cheap optionality” dilution | Options/warrants can cap rallies and create overhang; repeated issuance signals funding dependence | High | Med | Clear incentive design; limit term resets; transparent cap-structure reporting; align incentives with measurable operating outcomes | Appendix 2A/3B/3G frequency; term resets (strike/expiry); % of FD vs basic share count |
+| Key-person / execution continuity | Transition to producer is highly execution-led; leadership disruption can cascade into schedule/cost issues | Med | High | Depth in ops team; succession planning; contract redundancy for critical roles | Board/exec turnover; hiring pace; safety incidents; sustained delivery vs targets |
+| Creditor / financier alignment | Debt facilities with equity-linked sweeteners can influence future dilution and covenant flexibility | Med | Med–High | Transparent facility terms; staged draws tied to milestones; avoid compounding equity-linked fees during stress | New warrants/options to financiers; covenant disclosures; refinancing announcements |
 
 ### 12) Scenario table template (probability-weighted)
 **Valuation anchor (primary)**: Qala Shallows DFS (2025-07-23) reports **post-tax NPV7.5 = US$500m** for the “All Mineral Resources” base case (includes Inferred), with **gold price sensitivity** down to **US$194m @ US$1,850/oz** and up to **US$1,111m @ US$4,850/oz**. WWI’s reported interest in WBP is **74%**.

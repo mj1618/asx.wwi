@@ -37,3 +37,16 @@ The repo is largely complete, but a handful of “TBDs” remain in `ANALYSIS.md
 - For EV: use the repo’s stated market cap snapshot + latest quarter cash + disclosed drawn facilities, and clearly label this as an *approximate* EV.
 - For peer “TBDs”: prefer the latest ASX releases / annual reports / JORC PDFs for resources/reserves; keep citations tight and dated.
 
+---
+
+### Completion notes (2026-02-02)
+- Updated `ANALYSIS.md` to fully resolve:
+  - **EV** placeholder with an explicit EV proxy calculation consistent with `valuation.md` (market cap + debt − cash) and clear “as-of” caveats.
+  - **Variant view** placeholder with falsifiable bullets tied to the repo’s existing primary filings (first gold/ramp path, conversion optionality, dilution dynamics, governance optics).
+  - **Director dealings** placeholder with a short interpretation framework (placement vs market buying; vesting/exercise; nominee opacity), pointing to `ownership.md`.
+  - **Risk register** Likelihood/Impact/Mitigants cells with qualitative rankings and practical mitigants aligned to `monitoring.md`.
+- Updated `peers.md` to replace RMS/GMD “TBD” cells with **resource/reserve totals** and implied **EV/oz** multiples.
+- Added primary citations to `sources.md` for:
+  - **RMS** FY25 Resources & Reserves Statement (company PDF).
+  - **GMD** Resources & Reserves Statement (company PDF link referenced on the company site).
+
