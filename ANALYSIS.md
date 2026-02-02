@@ -33,7 +33,10 @@
   - **Debt**: A$18.653m loan facilities drawn (as at 31 Dec 2025 quarter end; see Appendix 5B “financing facilities”)
   - **Enterprise value (EV)**: TBD
 - **Ownership/structure**:
-  - **Major shareholders**: TBD
+  - **Major shareholders / register concentration (latest captured)**:
+    - **Top 20 ordinary shareholders** hold **~43.50%** (as at **26 Sep 2025**, per Annual Report FY2025 “Shareholder information”).
+    - **Substantial holder disclosed in Annual Report**: **Wingfield Durban Deep LP — 5.27%** (as at **26 Sep 2025**).
+    - Register includes multiple **custodian/nominee** lines (e.g., BNP/Citicorp/UBS), so “Top 20” does not necessarily equal beneficial owners.
   - **Project ownership/JVs/royalties** (high-level; verify full legal docs where possible):
     - **WBP (South Africa)**: held via **West Wits Mli Pty Ltd**; **74%** owned by West Wits Mining Ltd (via SA subsidiaries) and **26%** by **Lilitha Resources Pty Ltd** (local minority per SA requirements). Reported interests in the WBP tenements are **74%**.
     - **Mt Cecilia (WA)**: reported as **100%** held by WWI (EL45/5045). Prior Rio Tinto farm-in rights lapsed in Dec 2025 per quarterly.
@@ -177,6 +180,7 @@
   - 2026-01-20: A$27.5m placement; 343.75m shares @ A$0.08; attaching unlisted options (1 per 2 shares; A$0.11 exercise, 3-year expiry)
   - 2026-01-22: upsized placement to A$33.74m; 421.75m shares @ A$0.08; attaching unlisted options (1 per 2 shares; A$0.11 exercise, 3-year expiry)
 - **Director dealings**: signals + constraints (TBD)
+  - **Interim alignment proxy (until Appendix 3Y/3X extraction is built)**: see Section **10)**; Annual Report FY2025 discloses director and KMP interests (shares/options/performance rights) and notes director participation in the June 2025 placement (subject to shareholder approval).
 
 ### 8) Valuation approaches to use (mining-appropriate)
 Use multiple lenses; triangulate.
@@ -202,12 +206,43 @@ Define peer set by:
 - Comparable jurisdiction developers/explorers
 
 ### 10) Management, governance, and alignment
-- **Board/management**:
-  - Track record delivering projects, raises, M&A outcomes (TBD)
-- **Alignment**:
-  - Insider ownership, participation in raises, option incentives (TBD)
-- **Governance**:
-  - Related party transactions, remuneration, ESG/community strategy (TBD)
+- **Board + key management (latest captured: Annual Report FY2025)**:
+  - | Person | Role (as disclosed) | Tenure / appointment notes | Why it matters (investor lens) |
+    |---|---|---|---|
+    | Michael Quinert | Executive Chairman | In role during FY2025 (Directors’ Report dated 30 Sep 2025) | Key decision-maker; chair + executive chair structure concentrates influence. |
+    | Rudi Deysel | CEO (from 1 Dec 2024) and MD (from 14 Jul 2025) | Operational lead into first-gold/ramp | Execution risk is highly “key-person” at this stage (ramp-to-cashflow). |
+    | Jac van Heerden | Non-Executive Director | FY2025 | Mining engineer/operator background; also disclosed to have a small interest in the SA project company (see “Alignment”). |
+    | Warwick Grigor | Non-Executive Director | FY2025 | Capital markets / mining finance experience; relevant to funding/dilution outcomes. |
+    | Keith Middleton | Non-Executive Director | Appointed 14 Jul 2025 | Capital markets + growth-company execution; joined around transition to production. |
+    | Simon Whyte | CFO + Joint Company Secretary | FY2025 | Financing, reporting, and governance cadence; also a material equity holder (see “Alignment”). |
+    | Paul Godfrey | Joint Company Secretary | FY2025 | Corporate/legal governance support. |
+- **Alignment (ownership + incentives, as disclosed in Annual Report FY2025)**:
+  - **Director/KMP equity exposure (shares + options + performance rights)** is material at the margin (but small vs multi‑billion share count), and the company uses **options/performance rights** as a major component of LTI.
+  - **Selected disclosed interests (Directors’ Report, FY2025 Annual Report)**:
+    - Michael Quinert: **61.56m shares**, **7.02m options**, **5.0m performance rights**
+    - Rudi Deysel: **6.35m shares**, **7.77m options**, **2.5m performance rights**
+    - Jac van Heerden: **12.83m shares**, **7.54m options**, plus disclosed **right to 0.34% interest in West Wits MLI (Pty) Ltd**
+    - Warwick Grigor: **26.48m shares**, **9.39m options**
+    - Keith Middleton: **1.8m shares**, **4.5m options**
+    - Simon Whyte (CFO): **15.82m shares**, **6.18m options**
+  - **Performance-linked incentives (notable)**:
+    - CEO performance rights include operational hurdles (e.g., **ore production rate** and **annualised gold production** milestones) which is directionally aligned with the near-term value driver (ramp).
+  - **Director “skin in the game” via placements**:
+    - FY2025 Annual Report notes **three directors** (Quinert, Grigor, van Heerden) agreed to subscribe **A$260k** in the **June 2025 placement**, subject to shareholder approval (approval received at an EGM on **11 Aug 2025** per annual report).
+- **Governance / red flags (filing-supported observations)**:
+  - **Related-party payments are non-trivial and should be monitored**:
+    - FY2025 Annual Report discloses related-party transactions including legal fees to a director-related entity (QR Lawyers), rent to a director-related entity (Brickwick), legal fees to a director-related entity (Malan Scholes), and broker fees to a director-related entity (Far East Capital), plus a **loan from Kastin Pty Ltd** (director-related) disclosed at **A$100k** at 30 Jun 2025.
+    - Latest quarterly (Dec 2025) reports **A$607k** related-party payments (Appendix 5B item 6.1), with narrative breakdown including director fees/salaries and payments to director-related entities for office rent/legal services.
+  - **Capital structure governance matters**:
+    - Meaningful **option/warrant overhang** (see Section 7) plus continuing issuance under incentive schemes (e.g., Jan 2026 Appendix 3G unquoted option issue).
+  - **Auditor / assurance**:
+    - Auditor is **William Buck** (per FY2025 Annual Report). Auditor report identifies **key audit matters** (exploration & evaluation asset carrying value; accounting for convertible notes). No “emphasis of matter” for going concern was identified in the captured FY2025 audit report text.
+  - **Actionable watch-items (leading indicators)**:
+    - Track **Appendix 5B item 6 related-party payments** each quarter; reconcile to disclosed related-party vendors and fee arrangements.
+    - Track **director/KMP net buying/selling** once Appendix 3Y/3X extraction is built (leading indicator around funding events and ramp outcomes).
+    - Track **new option/warrant issues** (Appendix 3G/2A/3B) and any **option term resets** (strike reductions/extensions).
+    - Track **board/exec turnover** during the ramp-to-production window (key-person / continuity risk).
+    - Track **substantial holder notices** (new control/influence dynamics; liquidity overhang risk).
 
 ### 11) Risk register (track leading indicators)
 | Risk | Why it matters | Likelihood (TBD) | Impact (TBD) | Mitigants | Leading indicators / watch items |
@@ -218,6 +253,10 @@ Define peer set by:
 | Execution / cost overrun | Capex blowouts | TBD | TBD | TBD | Study assumptions vs peers |
 | Jurisdiction/community | Licence to operate | TBD | TBD | TBD | Community/legal disputes |
 | Partner/JV risk | Misalignment on funding/work | TBD | TBD | TBD | JV disputes, earn-in delays |
+| Governance / related-party spend | Conflicts + cash leakage perception can raise cost of capital and impair trust | TBD | TBD | Board policies; audit oversight; disclosure cadence | Appendix 5B item 6 trend; related-party balances in annual report; new related-party contracts |
+| Incentive overhang / “cheap optionality” dilution | Options/warrants can cap rallies and create overhang; repeated issuance signals funding dependence | TBD | TBD | Clear incentive design; restrict resets; transparent cap-structure reporting | Appendix 2A/3B/3G frequency; term resets (strike/expiry); % of FD vs basic share count |
+| Key-person / execution continuity | Transition to producer is highly execution-led; leadership disruption can cascade into schedule/cost issues | TBD | TBD | Depth in ops team; succession planning | Board/exec turnover; hiring pace; safety incidents; sustained delivery vs targets |
+| Creditor / financier alignment | Debt facilities with equity-linked sweeteners can influence future dilution and covenant flexibility | TBD | TBD | Transparent facility terms; staged draws tied to milestones | New warrants/options to financiers; covenant disclosures; refinancing announcements |
 
 ### 12) Scenario table template (probability-weighted)
 **Valuation anchor (primary)**: Qala Shallows DFS (2025-07-23) reports **post-tax NPV7.5 = US$500m** for the “All Mineral Resources” base case (includes Inferred), with **gold price sensitivity** down to **US$194m @ US$1,850/oz** and up to **US$1,111m @ US$4,850/oz**. WWI’s reported interest in WBP is **74%**.
@@ -282,6 +321,7 @@ Key citations used for cash/runway + capital structure:
 - **[Quarterly Activity Report (Reporting Period 1 October – 31 December 2025) + Appendix 5B](https://announcements.asx.com.au/asxpdf/20260123/pdf/06vj8v3nlt4skk.pdf)** — *2026-01-23* — supports: “Qala Shallows operational progress (ore to surface; stockpiling; target first gold Mar 2026), toll-treat plan at Ezulwini, and tenement interests (WBP/Mt Cecilia/Derewo).”
 - **[2.2Moz Increase to WBP Global JORC Mineral Resource Estimate to 7.24Moz Gold](https://announcements.asx.com.au/asxpdf/20260202/pdf/06vvhp4zxswsgh.pdf)** — *2026-02-02* — supports: “Global WBP JORC MRE totals and M&I/Inferred breakdown; PR 10839 contribution; stated DFS reserve/LOM/production target references; planned next-step work program (Project 200, Bird Reef Central drilling).”
 - **[Updates to Qala Shallows DFS provide improved results for Witwatersrand Basin Project](https://announcements.asx.com.au/asxpdf/20250723/pdf/06m1rzxy01hc14.pdf)** — *2025-07-23* — supports: “Qala Shallows DFS economics (post-tax NPV7.5, IRR, peak funding, AISC), gold/FX assumptions, ore reserve statement, and sensitivity tables used as the valuation anchor.”
+- **[WWI Annual Report (year ended 30 June 2025)](https://westwitsmining.com/wp-content/uploads/2025/09/WWI-Annual-Report-End-June-2025.pdf)** — *2025-09-30* — supports: “Board/management roster + appointment dates; director/KMP holdings and incentive structures (options/performance rights); related-party transaction disclosures; top 20 shareholders and substantial holder disclosure (as at 26 Sep 2025).”
 - **[Google Finance — ASX:WWI quote](https://www.google.com/finance/quote/WWI:ASX)** — *2026-02-02* — supports: “Indicative share price and market cap snapshot used to contextualise valuation per-share ranges.”
 - **[Google Finance — AUD/USD](https://www.google.com/finance/quote/AUD-USD)** — *2026-02-02* — supports: “Indicative FX used for USD→AUD conversions in valuation math.”
 

@@ -44,10 +44,11 @@ Deliverable to build from this:
 ---
 
 ### 2) Financial statements and periodic reports
-- [ ] **Annual report (audited)** — latest FY
-  - [ ] Notes on going concern, impairments, exploration & evaluation assets
-  - [ ] Share-based payment notes (options, performance rights)
-  - [ ] Related party disclosures
+- [x] **Annual report (audited)** — latest FY
+  - **[WWI Annual Report (year ended 30 June 2025)](https://westwitsmining.com/wp-content/uploads/2025/09/WWI-Annual-Report-End-June-2025.pdf)** — *2025-09-30* — supports: “Board + management roster (Corporate Directory / Directors’ Report), director/KMP shareholdings and incentive holdings (shares/options/performance rights), remuneration policy + incentive structures, related-party transactions (including director-related entities), auditor identity, and shareholder register extracts (Top 20 + substantial holder disclosures as at 26 Sep 2025).”
+  - [x] Notes on going concern, impairments, exploration & evaluation assets
+  - [x] Share-based payment notes (options, performance rights)
+  - [x] Related party disclosures
 - [ ] **Half-year report** — latest (if applicable)
 - [x] **Quarterly cashflow reports (5B)** — last 8 quarters (see the eight quarterly/5B PDFs listed above, plus 23 Jan 2026 report for quarter ended 31 Dec 2025)
 
@@ -92,11 +93,20 @@ Prioritize JORC-compliant and study documents.
 ---
 
 ### 5) Corporate governance and ownership
-- [ ] **Board/management biographies** (track record verification items)
-- [ ] **Corporate governance statement**
-- [ ] **Top 20 shareholders** (from annual report / investor deck; verify currency)
-- [ ] **Substantial holder notices** (ownership changes, institutions vs insiders)
-- [ ] **Director dealings** (Appendix 3Y etc.)
+- [x] **Board/management roster + bios** (use annual report as primary; website bios as secondary)
+  - **[WWI Annual Report (year ended 30 June 2025)](https://westwitsmining.com/wp-content/uploads/2025/09/WWI-Annual-Report-End-June-2025.pdf)** — *2025-09-30* — supports: “Director and officer profiles + appointment dates (e.g., CEO/MD appointments), and director interests (shares/options/performance rights).”
+- [ ] **Corporate governance statement** (not yet captured as a standalone filing; use annual report governance/committee disclosure + Appendix 5B related-party disclosures in the interim)
+- [x] **Top 20 shareholders / register concentration** (verify currency/date)
+  - **[WWI Annual Report (year ended 30 June 2025)](https://westwitsmining.com/wp-content/uploads/2025/09/WWI-Annual-Report-End-June-2025.pdf)** — *2025-09-30* — supports: “Top 20 shareholders and top 20 listed optionholders; substantial holder disclosure as at 26 Sep 2025.”
+- [x] **Substantial holder disclosure** (to the extent included in annual report)
+  - **[WWI Annual Report (year ended 30 June 2025)](https://westwitsmining.com/wp-content/uploads/2025/09/WWI-Annual-Report-End-June-2025.pdf)** — *2025-09-30* — supports: “Discloses substantial holder(s) as at 26 Sep 2025 (e.g., Wingfield Durban Deep LP at 5.27%).”
+- [ ] **Director dealings** (Appendix 3Y etc.; still to capture from ASX feed)
+  - (Interim proxy: director interests as disclosed in the annual report Directors’ Report and KMP shareholding table.)
+
+Additional primary governance/related-party sources used:
+- **[Quarterly Activity Report (Reporting Period 1 October – 31 December 2025) + Appendix 5B](https://announcements.asx.com.au/asxpdf/20260123/pdf/06vj8v3nlt4skk.pdf)** — *2026-01-23* — supports: “Appendix 5B item 6 related-party payments total (A$607k) and the quarterly narrative breakdown (director fees/salaries; payments to director-related entities for office rent/legal services).”
+- **[Appendix 2A - Application for quotation of securities (post-placement capital snapshot)](https://announcements.asx.com.au/asxpdf/20260127/pdf/06vlw4ggk8lrk8.pdf)** — *2026-01-27* — supports: “Quoted and unquoted capital structure totals (shares/options/warrants/performance rights/convertible notes) used to quantify incentive overhang and dilution governance.”
+- **[Appendix 3G - Notification of issue of unquoted equity securities](https://announcements.asx.com.au/asxpdf/20260128/pdf/06vnnr41ghqxts.pdf)** — *2026-01-28* — supports: “Additional unquoted options issued under an employee incentive scheme; indicates whether issued to KMP/associates and links to scheme terms.”
 
 Deliverables to build from this:
 - [ ] Insider alignment summary (ownership, participation in raises, incentives)
