@@ -100,8 +100,15 @@ Prioritize JORC-compliant and study documents.
   - **[WWI Annual Report (year ended 30 June 2025)](https://westwitsmining.com/wp-content/uploads/2025/09/WWI-Annual-Report-End-June-2025.pdf)** — *2025-09-30* — supports: “Top 20 shareholders and top 20 listed optionholders; substantial holder disclosure as at 26 Sep 2025.”
 - [x] **Substantial holder disclosure** (to the extent included in annual report)
   - **[WWI Annual Report (year ended 30 June 2025)](https://westwitsmining.com/wp-content/uploads/2025/09/WWI-Annual-Report-End-June-2025.pdf)** — *2025-09-30* — supports: “Discloses substantial holder(s) as at 26 Sep 2025 (e.g., Wingfield Durban Deep LP at 5.27%).”
-- [ ] **Director dealings** (Appendix 3Y etc.; still to capture from ASX feed)
+- [x] **Director dealings** (Appendix 3Y/3X/3Z)
   - (Interim proxy: director interests as disclosed in the annual report Directors’ Report and KMP shareholding table.)
+  - **[Change of Director’s Interest Notices](https://announcements.asx.com.au/asxpdf/20250828/pdf/06nj6tw221fb77.pdf)** — *2025-08-28* — supports: “Director-related share issues (placement participation at A$0.022; plus loan repayment shares to the Executive Chair) approved at 11 Aug 2025 general meeting.”
+  - **[Change of Director’s Interest Notices](https://announcements.asx.com.au/asxpdf/20251208/pdf/06t2sbhnqd7nd5.pdf)** — *2025-12-08* — supports: “Issue of performance rights (Class A/B/C) to multiple directors at nil consideration, pursuant to shareholder approval at 20 Nov 2025 AGM.”
+  - **[Change of Director’s Interest Notice](https://announcements.asx.com.au/asxpdf/20260105/pdf/06tz46t88t5j6j.pdf)** — *2026-01-05* — supports: “Expiry of 2.5m performance rights for Michael Quinert (expired 31 Dec 2025 without conversion).”
+  - **[Change of Director’s Interest Notices x 5](https://announcements.asx.com.au/asxpdf/20260115/pdf/06v9f5z00gfvqj.pdf)** — *2026-01-15* — supports: “Exercise of vested performance rights into ordinary shares for multiple directors (nil consideration).”
+
+Additional primary ownership sources used:
+- **[Becoming a substantial holder](https://announcements.asx.com.au/asxpdf/20210303/pdf/44t9pjh85nmyvy.pdf)** — *2021-03-03* — supports: “Wingfield Durban Deep, LP became a substantial holder on 2 Mar 2021 with 173,195,314 shares (12.46% voting power) (Form 603).”
 
 Additional primary governance/related-party sources used:
 - **[Quarterly Activity Report (Reporting Period 1 October – 31 December 2025) + Appendix 5B](https://announcements.asx.com.au/asxpdf/20260123/pdf/06vj8v3nlt4skk.pdf)** — *2026-01-23* — supports: “Appendix 5B item 6 related-party payments total (A$607k) and the quarterly narrative breakdown (director fees/salaries; payments to director-related entities for office rent/legal services).”

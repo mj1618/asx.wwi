@@ -36,6 +36,7 @@
   - **Major shareholders / register concentration (latest captured)**:
     - **Top 20 ordinary shareholders** hold **~43.50%** (as at **26 Sep 2025**, per Annual Report FY2025 “Shareholder information”).
     - **Substantial holder disclosed in Annual Report**: **Wingfield Durban Deep LP — 5.27%** (as at **26 Sep 2025**).
+    - **Historical substantial holder entry (Form 603)**: **Wingfield Durban Deep, LP** became a substantial holder on **2 Mar 2021** with **173,195,314** ordinary shares (**12.46% voting power**). *(This repo does not yet capture Form 604 “change” notices between 2021 and the FY2025 snapshot.)*
     - Register includes multiple **custodian/nominee** lines (e.g., BNP/Citicorp/UBS), so “Top 20” does not necessarily equal beneficial owners.
   - **Project ownership/JVs/royalties** (high-level; verify full legal docs where possible):
     - **WBP (South Africa)**: held via **West Wits Mli Pty Ltd**; **74%** owned by West Wits Mining Ltd (via SA subsidiaries) and **26%** by **Lilitha Resources Pty Ltd** (local minority per SA requirements). Reported interests in the WBP tenements are **74%**.
@@ -180,7 +181,9 @@
   - 2026-01-20: A$27.5m placement; 343.75m shares @ A$0.08; attaching unlisted options (1 per 2 shares; A$0.11 exercise, 3-year expiry)
   - 2026-01-22: upsized placement to A$33.74m; 421.75m shares @ A$0.08; attaching unlisted options (1 per 2 shares; A$0.11 exercise, 3-year expiry)
 - **Director dealings**: signals + constraints (TBD)
-  - **Interim alignment proxy (until Appendix 3Y/3X extraction is built)**: see Section **10)**; Annual Report FY2025 discloses director and KMP interests (shares/options/performance rights) and notes director participation in the June 2025 placement (subject to shareholder approval).
+  - **Appendix 3Y highlights (primary)** — see `ownership.md`:
+    - Aug 2025: directors participated in a placement at **A$0.022** (plus Executive Chair received shares in repayment of loan/interest).
+    - Dec 2025 → Jan 2026: incentive **performance rights issued** (Dec) and then **exercised/vested into shares** (Jan) at **nil consideration**.
 
 ### 8) Valuation approaches to use (mining-appropriate)
 Use multiple lenses; triangulate.
@@ -253,6 +256,8 @@ Define peer set by:
 | Execution / cost overrun | Capex blowouts | TBD | TBD | TBD | Study assumptions vs peers |
 | Jurisdiction/community | Licence to operate | TBD | TBD | TBD | Community/legal disputes |
 | Partner/JV risk | Misalignment on funding/work | TBD | TBD | TBD | JV disputes, earn-in delays |
+| Substantial-holder sell-down / placement overhang | A large holder distributing stock can cap rallies and pressure liquidity; can dominate price action in small/mid caps | TBD | TBD | Transparent placement strategy; broaden register where possible | Form 603/604 notices; broker placement allocations; unusual volume + persistent weakness; top-20 % changes in reports |
+| Register opacity / nominee-heavy concentration | Custodian/nominee lines obscure beneficial control and can mask “who is really selling/buying” | TBD | TBD | Better disclosure of strategic holders where possible; investor comms | Top-20 list composition (custodians); new nominee lines; sudden appearance/disappearance of a major line item |
 | Governance / related-party spend | Conflicts + cash leakage perception can raise cost of capital and impair trust | TBD | TBD | Board policies; audit oversight; disclosure cadence | Appendix 5B item 6 trend; related-party balances in annual report; new related-party contracts |
 | Incentive overhang / “cheap optionality” dilution | Options/warrants can cap rallies and create overhang; repeated issuance signals funding dependence | TBD | TBD | Clear incentive design; restrict resets; transparent cap-structure reporting | Appendix 2A/3B/3G frequency; term resets (strike/expiry); % of FD vs basic share count |
 | Key-person / execution continuity | Transition to producer is highly execution-led; leadership disruption can cascade into schedule/cost issues | TBD | TBD | Depth in ops team; succession planning | Board/exec turnover; hiring pace; safety incidents; sustained delivery vs targets |
