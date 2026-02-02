@@ -1,6 +1,6 @@
 ## ASX:WWI (West Wits Mining Limited) — Deep-dive working outline
 
-**Status**: Outline with **cash/runway + capital structure** populated from primary documents (through Jan–Feb 2026). Remaining sections still TBD.
+**Status**: Outline with **cash/runway + capital structure + project factsheets + scenario valuation (bull/base/bear + probability-weighted)** populated from primary documents (through Jan–Feb 2026). Remaining sections still TBD.
 
 > Not financial advice. This is a research framework to guide document collection and analysis.
 
@@ -20,7 +20,7 @@
   - Mt Cecilia: exploration (follow-up drilling options under review)
   - Derewo: dormant / divestment (tenure status risk flagged by company)
 - **Market metrics (as-of date)**:
-  - **Share price**: TBD
+  - **Share price**: ~A$0.077 (Google Finance snapshot as at 2026-02-02; validate against broker/ASX)
   - **Shares on issue (basic / diluted)**:
     - **Basic (ordinary shares, quoted)**: 4,319,419,767 (as at 2026-01-27, post-placement quotation)
     - **Key dilutive instruments (counts, as at 2026-01-27)**:
@@ -28,7 +28,7 @@
       - Unquoted options: 171,088,599
       - Unquoted warrants: 166,933,764
       - Performance rights: 5,000,000
-  - **Market cap**: TBD
+  - **Market cap**: ~A$351.6m (Google Finance snapshot as at 2026-02-02; validate against broker/ASX)
   - **Cash**: A$22.246m (as at 31 Dec 2025 quarter end)
   - **Debt**: A$18.653m loan facilities drawn (as at 31 Dec 2025 quarter end; see Appendix 5B “financing facilities”)
   - **Enterprise value (EV)**: TBD
@@ -110,11 +110,15 @@
 
 ### 4) Investment thesis (bull / base / bear)
 - **Bull case** (what must be true):
-  - TBD
+  - Qala Shallows hits first gold and **ramps to sustained ~70koz p.a.** with **costs tracking the DFS** (AISC order-of-magnitude and schedule discipline).
+  - Market assigns a higher multiple / lower discount to published DFS economics as de-risking milestones clear (production + cash generation).
+  - Additional upside workstreams (e.g., Project 200 / resource conversion) progress without forcing excessive dilution.
 - **Base case**:
-  - TBD
+  - Qala Shallows achieves first gold and ramps, but with typical commissioning/ramp “noise” (delays/variances) and continued reliance on capital markets for flexibility.
+  - Valuation converges toward a discounted fraction of DFS project value as execution risk reduces.
 - **Bear case**:
-  - TBD
+  - Material slippage vs first-gold/ramp schedule and/or poorer-than-expected grade/throughput/cost outcomes drives additional dilutive raises at lower prices.
+  - Financing covenants / facility access / toll-treat execution frictions amplify downside; the market prices WWI as a stressed developer rather than a producer.
 - **Variant view** (why WWI may be mispriced vs market consensus):
   - TBD
 
@@ -216,11 +220,32 @@ Define peer set by:
 | Partner/JV risk | Misalignment on funding/work | TBD | TBD | TBD | JV disputes, earn-in delays |
 
 ### 12) Scenario table template (probability-weighted)
-| Scenario | Probability (TBD) | Narrative | Key assumptions | Valuation method | Implied value / share price | What would change probability? |
-|---|---:|---|---|---|---:|---|
-| Bull | TBD | TBD | TBD | Peer/NAV/Option | TBD | TBD |
-| Base | TBD | TBD | TBD | Peer/NAV/Option | TBD | TBD |
-| Bear | TBD | TBD | TBD | Liquidity / down-case | TBD | TBD |
+**Valuation anchor (primary)**: Qala Shallows DFS (2025-07-23) reports **post-tax NPV7.5 = US$500m** for the “All Mineral Resources” base case (includes Inferred), with **gold price sensitivity** down to **US$194m @ US$1,850/oz** and up to **US$1,111m @ US$4,850/oz**. WWI’s reported interest in WBP is **74%**.
+
+**Dilution matters**: per-share outcomes depend as much on **share count growth** (funding path + option/warrant exercises) as on project value. Use both:
+- **Basic shares**: 4,319,419,767 (2026-01-27)
+- **Simple fully diluted (ex-convertibles)**: ~4,982,000,000 = basic + quoted options + unquoted options + warrants + perf rights (counts as at 2026-01-27)
+
+Valuation method used below: **risked / discounted DFS NPV triangulation** + explicit **share-count (dilution) ranges**. This is intentionally “wide band” to avoid precision theatre.
+
+**Back-of-envelope mapping used** (documented in more detail in `valuation.md`):
+- Start with **attributable DFS NPV**: \(0.74 \times US\$500m\), then convert USD→AUD using a spot FX snapshot.
+- Apply a scenario-specific **discount-to-NPV** factor (to reflect execution/jurisdiction/financing risk).
+- Divide by an assumed **share count** (basic vs fully diluted vs “additional raise”).
+
+| Scenario | Probability | Narrative (milestones + failure modes) | Funding / dilution assumption (2y) | Implied equity value range (AUD) | Implied value / share (AUD) | What would change probability? |
+|---|---:|---|---|---:|---:|---|
+| Bull | 25% | **First gold on time + clean ramp** toward ~70koz p.a.; market re-rates WWI from “developer” to “producer”; gold price supportive; expansion studies add optionality. **Failure modes**: ramp issues; processing/toll-treat friction; cost blowouts. | **Low additional dilution**: modest new equity; option exercises add cash (dilutive but not “distressed”). | ~A$620m–A$930m | ~A$0.14–A$0.22 (basic); ~A$0.12–A$0.19 (FD ex-CNs) | First gold achieved; early-grade reconciliation; evidence of stable deliveries + realised margins. |
+| Base | 50% | **First gold achieved but ramp is bumpy** (typical variance); financing flexibility remains important; value moves toward a **discounted** DFS anchor as execution risk reduces. | **Moderate dilution**: additional raise(s) possible if ramp underdelivers; share count +20% to +60% vs current. | ~A$260m–A$470m | ~A$0.06–A$0.11 (basic); ~A$0.05–A$0.09 (FD ex-CNs) | Quarterly evidence of improving unit economics; reduced funding dependence; de-risking of toll-treat and logistics. |
+| Bear | 25% | **Delays / cost overrun / grade issues** lead to **stressed funding** and equity raised at lower prices; market focuses on dilution + liquidity rather than DFS NPV. **Failure modes**: inability to sustain mining rate; covenant/credit access; regulatory/community issues. | **High dilution**: share count +60% to +150% vs current (or worse) and/or recap terms punitive. | ~A$60m–A$180m | ~A$0.01–A$0.04 (assuming materially higher share count) | Missed first-gold / ramp targets; rising quarterly cash burn; facility access constraints; repeated discounted placements. |
+
+#### Probability-weighted outcome (what this implies)
+Using the above scenario weights and midpoints, a coarse probability-weighted “intrinsic value” range lands around **high single-digits to low teens cents per share** (AUD), **before** accounting for any incremental dilution beyond the assumed bands.
+
+#### 2-year downside probability (aligned to milestones)
+The next ~24 months are dominated by “producer transition” milestones (first gold + ramp). A pragmatic way to frame the downside question (“chance it doesn’t go up / goes down”) is:
+- **Downside drivers**: schedule slip vs first-gold; ramp underperformance; continued high burn forcing discounted equity; adverse operational surprises.
+- Under the scenario weights above, a rough **2-year downside probability** is **~35–45%**, because even in the base case the stock can underperform if dilution dominates per-share outcomes.
 
 ### 13) Open questions (must verify from primary sources)
 - What are WWI’s **current flagship assets** and exact ownership terms?
@@ -256,4 +281,7 @@ Key citations used for cash/runway + capital structure:
 - **[WWI Raises A$27.5M to Advance Gold and Uranium Projects](https://announcements.asx.com.au/asxpdf/20260120/pdf/06vf99fm6ywfp6.pdf)** — *2026-01-20* — supports: “Stated use of funds (Qala Shallows development; Project 200 scoping study; BRC uranium drilling) and attaching option terms.”
 - **[Quarterly Activity Report (Reporting Period 1 October – 31 December 2025) + Appendix 5B](https://announcements.asx.com.au/asxpdf/20260123/pdf/06vj8v3nlt4skk.pdf)** — *2026-01-23* — supports: “Qala Shallows operational progress (ore to surface; stockpiling; target first gold Mar 2026), toll-treat plan at Ezulwini, and tenement interests (WBP/Mt Cecilia/Derewo).”
 - **[2.2Moz Increase to WBP Global JORC Mineral Resource Estimate to 7.24Moz Gold](https://announcements.asx.com.au/asxpdf/20260202/pdf/06vvhp4zxswsgh.pdf)** — *2026-02-02* — supports: “Global WBP JORC MRE totals and M&I/Inferred breakdown; PR 10839 contribution; stated DFS reserve/LOM/production target references; planned next-step work program (Project 200, Bird Reef Central drilling).”
+- **[Updates to Qala Shallows DFS provide improved results for Witwatersrand Basin Project](https://announcements.asx.com.au/asxpdf/20250723/pdf/06m1rzxy01hc14.pdf)** — *2025-07-23* — supports: “Qala Shallows DFS economics (post-tax NPV7.5, IRR, peak funding, AISC), gold/FX assumptions, ore reserve statement, and sensitivity tables used as the valuation anchor.”
+- **[Google Finance — ASX:WWI quote](https://www.google.com/finance/quote/WWI:ASX)** — *2026-02-02* — supports: “Indicative share price and market cap snapshot used to contextualise valuation per-share ranges.”
+- **[Google Finance — AUD/USD](https://www.google.com/finance/quote/AUD-USD)** — *2026-02-02* — supports: “Indicative FX used for USD→AUD conversions in valuation math.”
 

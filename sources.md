@@ -81,6 +81,7 @@ Prioritize JORC-compliant and study documents.
   - **[2.2Moz Increase to WBP Global JORC Mineral Resource Estimate to 7.24Moz Gold](https://announcements.asx.com.au/asxpdf/20260202/pdf/06vvhp4zxswsgh.pdf)** — *2026-02-02* — supports: “WBP Global JORC (2012) MRE tables + assumptions + competent person statement.”
 - [ ] **Scoping / PFS / DFS** (if any)
   - (Known to exist per company references; **capture the ASX technical release(s)** for the DFS summary as a primary source; company-hosted decks are secondary and can be used as pointers.)
+  - **[Updates to Qala Shallows DFS provide improved results for Witwatersrand Basin Project](https://announcements.asx.com.au/asxpdf/20250723/pdf/06m1rzxy01hc14.pdf)** — *2025-07-23* — supports: “Qala Shallows DFS economics (post-tax NPV7.5, IRR, peak funding, AISC), gold price/FX assumptions, ore reserve statement, and sensitivity tables.”
   - [ ] Capex/opex/AISC assumptions and sensitivities
   - [ ] Mining method, metallurgy/recovery, schedule
   - [ ] Permitting status and critical path
@@ -111,6 +112,10 @@ Deliverables to build from this:
 
 Rule:
 - Clearly state the source, date, and whether you used **spot** or a **price deck**.
+
+Market data references used for current snapshot (secondary sources; validate against broker/ASX if trading):
+- **[Google Finance — ASX:WWI quote](https://www.google.com/finance/quote/WWI:ASX)** — *2026-02-02* — supports: “Indicative share price and market cap snapshot used to contextualise valuation per-share ranges.”
+- **[Google Finance — AUD/USD](https://www.google.com/finance/quote/AUD-USD)** — *2026-02-02* — supports: “Indicative FX used for USD→AUD conversions in valuation math.”
 
 ---
 
