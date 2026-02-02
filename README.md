@@ -50,6 +50,59 @@ Probability-weighted value sits in the **high single-digits to low teens cents**
 
 ---
 
+## Outcome Probabilities by Time Horizon
+
+The table below estimates the likelihood of different outcomes over 1, 2, and 5 year horizons. These are subjective estimates based on the analysis in this repository and reflect the binary nature of the near-term catalyst (first gold) and the execution path thereafter.
+
+### 1 Year (Feb 2027)
+
+| Outcome | Probability | Price Range | Key Drivers |
+|---------|-------------|-------------|-------------|
+| **Strong Outperformance** | 20% | A$0.15–0.25 | First gold on time + clean ramp + gold price tailwind |
+| **Moderate Outperformance** | 30% | A$0.10–0.15 | First gold achieved but ramp bumpy; gradual de-risking |
+| **Flat / Slight Underperformance** | 25% | A$0.05–0.10 | Typical commissioning issues; dilution offsets progress |
+| **Material Underperformance** | 25% | A$0.02–0.05 | First gold delayed; cost/grade issues; distressed funding |
+
+**1-Year Summary:** 50% chance of being higher than current price, 50% chance of being flat or lower. The near-term is highly binary — first gold success/failure dominates outcomes.
+
+### 2 Years (Feb 2028)
+
+| Outcome | Probability | Price Range | Key Drivers |
+|---------|-------------|-------------|-------------|
+| **Strong Outperformance** | 25% | A$0.18–0.30 | Sustained ~70koz p.a. production; self-funding; expansion optionality priced in |
+| **Moderate Outperformance** | 35% | A$0.10–0.18 | Producer status established but with typical operational variance |
+| **Flat / Slight Underperformance** | 20% | A$0.05–0.10 | Production achieved but dilution high; market skepticism persists |
+| **Material Underperformance** | 20% | A$0.01–0.05 | Sustained ramp issues; ongoing funding stress; possible recap |
+
+**2-Year Summary:** 60% chance of being materially higher than current price. Once the binary first-gold hurdle clears, execution evidence accumulates and the probability distribution shifts toward positive outcomes.
+
+### 5 Years (Feb 2031)
+
+| Outcome | Probability | Price Range | Key Drivers |
+|---------|-------------|-------------|-------------|
+| **Strong Outperformance** | 30% | A$0.25–0.50+ | Steady-state producer; Project 200 expansion advancing; resource conversion |
+| **Moderate Outperformance** | 35% | A$0.12–0.25 | Mature single-mine operation; stable but limited growth |
+| **Flat / Slight Underperformance** | 20% | A$0.05–0.12 | Mine performs but reserve depletion concerns; no expansion traction |
+| **Material Underperformance** | 15% | A$0.01–0.05 | Mine closure / asset sale; project economics don't hold up over LOM |
+
+**5-Year Summary:** 65% chance of being materially higher than current price. Longer horizon allows for resource conversion, expansion studies, and multiple commodity price cycles. Tail risk of project failure decreases but doesn't disappear.
+
+### Probability-Weighted Expected Values
+
+| Horizon | Expected Value (midpoint weighted) | vs Current (~A$0.077) |
+|---------|-----------------------------------|----------------------|
+| **1 Year** | ~A$0.09 | +17% |
+| **2 Years** | ~A$0.12 | +56% |
+| **5 Years** | ~A$0.17 | +121% |
+
+**Key Caveats:**
+- These estimates assume no major changes in gold price (staying in US$2,500–3,500/oz range)
+- Dilution is a first-order driver of per-share outcomes — additional raises will compress upside
+- Probabilities shift materially with each major milestone (first gold, ramp targets, quarterly production)
+- This is a speculative equity; actual outcomes will likely cluster at extremes rather than midpoints
+
+---
+
 ## Why You Might Avoid
 
 ### 1. Execution Risk is Real
