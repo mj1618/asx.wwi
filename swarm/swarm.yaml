@@ -1,0 +1,10 @@
+version: "1"
+tasks:
+  # planner:
+  #   prompt: planner
+  #   iterations: 50
+  #   model: gpt-5.2-high
+  executor:
+    prompt: executor
+    iterations: 50
+    model: gpt-5.2-high
