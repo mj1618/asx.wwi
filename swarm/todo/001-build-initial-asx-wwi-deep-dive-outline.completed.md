@@ -37,4 +37,5 @@ Completed on 2026-02-02.
 
 - Created `ANALYSIS.md` as a structured, Wall-Street-style deep-dive outline with templates for: snapshot, thesis (bull/base/bear), catalysts timeline, financial/runway framework, valuation lenses, risk register, scenario table, and open questions.
 - Added `sources.md` with a primary-source checklist (ASX announcements, financials, technical docs, governance/ownership, reference market data) and a consistent citation format.
+- Initialized a local git repository and committed the changes; `git push` requires a remote to be configured.
 
