@@ -11,6 +11,7 @@ For the repeatable update protocol (what to check, how often, and where to recor
 
 ### Changelog (single source of truth)
 - **2026-02-02**: Added `monitoring.md` (ongoing monitoring + post–first gold update protocol) and wired it into the repo docs. No new primary filings were added beyond the existing 2026-02-02 anchor.
+- **2026-02-02**: Built a governance/insider “dashboard” in `ownership.md`: Appendix 5B item 6 related-party payments trend (last 8 quarters), plus an explicit 603/604 check against ASX year-view indices (none found for 2024–2026).
 
 ### 1) Company snapshot (fill from latest filings)
 - **Company**: West Wits Mining Limited
@@ -257,7 +258,7 @@ Define peer set by:
 - **Governance / red flags (filing-supported observations)**:
   - **Related-party payments are non-trivial and should be monitored**:
     - FY2025 Annual Report discloses related-party transactions including legal fees to a director-related entity (QR Lawyers), rent to a director-related entity (Brickwick), legal fees to a director-related entity (Malan Scholes), and broker fees to a director-related entity (Far East Capital), plus a **loan from Kastin Pty Ltd** (director-related) disclosed at **A$100k** at 30 Jun 2025.
-    - Latest quarterly (Dec 2025) reports **A$607k** related-party payments (Appendix 5B item 6.1), with narrative breakdown including director fees/salaries and payments to director-related entities for office rent/legal services.
+    - Appendix 5B item 6.1 **stepped up sharply** into the production transition window: **A$357k (Sep 2025 quarter)** and **A$607k (Dec 2025 quarter)** vs **tens of A$’000 per quarter** through Jun 2025 (see `ownership.md` for the auditable quarter-by-quarter table and primary links).
   - **Capital structure governance matters**:
     - Meaningful **option/warrant overhang** (see Section 7) plus continuing issuance under incentive schemes (e.g., Jan 2026 Appendix 3G unquoted option issue).
   - **Auditor / assurance**:
@@ -267,7 +268,7 @@ Define peer set by:
     - Track **director/KMP net buying/selling** once Appendix 3Y/3X extraction is built (leading indicator around funding events and ramp outcomes).
     - Track **new option/warrant issues** (Appendix 3G/2A/3B) and any **option term resets** (strike reductions/extensions).
     - Track **board/exec turnover** during the ramp-to-production window (key-person / continuity risk).
-    - Track **substantial holder notices** (new control/influence dynamics; liquidity overhang risk).
+    - Track **substantial holder notices** (new control/influence dynamics; liquidity overhang risk). *Note: no 603/604 filings were identified in the ASX 2024–2026 year-view indices as at 2026-02-02; the repo relies on annual-report snapshots + historical 603 where captured.*
 
 ### 11) Risk register (track leading indicators)
 | Risk | Why it matters | Likelihood (TBD) | Impact (TBD) | Mitigants | Leading indicators / watch items |

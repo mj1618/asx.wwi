@@ -14,12 +14,34 @@ For the update protocol (what to check and where to write updates), see `monitor
 Notes:
 - The “Top 20” list can include **custodian/nominee** holders (not necessarily beneficial owners). Treat it as **concentration + liquidity context**, not definitive beneficial ownership.
 
+## Related-party payments trend (Appendix 5B item 6) — quarterly (primary)
+
+**What this is**: Appendix 5B requires disclosure of aggregate payments to related parties and their associates.  
+**Units**: the Appendix 5B table is reported in **A$’000**.
+
+| Quarter end | Appendix 5B item 6.1 (A$’000) | Appendix 5B item 6.2 (A$’000) | Notes (only what the form itself states) | Source |
+|---|---:|---:|---|---|
+| 2024-03-31 | 101 | 6 | 6.1: director fees/salaries + legal fees + office rent; 6.2: legal fees for SA tenement acquisitions (ex GST/VAT where applicable). | [Quarterly + Appendix 5B (31 Mar 2024)](https://announcements.asx.com.au/asxpdf/20240424/pdf/062tscwss13v0m.pdf) |
+| 2024-06-30 | 66 | 28 | 6.1: director fees/salaries + legal fees + office rent; 6.2: legal fees for SA tenement acquisitions (ex GST/VAT where applicable). | [Quarterly + Appendix 5B (30 Jun 2024)](https://announcements.asx.com.au/asxpdf/20240715/pdf/065ldqk4cmzzgq.pdf) |
+| 2024-09-30 | 78 | 69 | 6.1: director fees/salaries + legal fees + office rent; 6.2: legal fees for SA tenement acquisitions (incl GST/VAT where applicable). | [Quarterly + Appendix 5B (30 Sep 2024)](https://announcements.asx.com.au/asxpdf/20241029/pdf/069qs5cqm29q1b.pdf) |
+| 2024-12-31 | 49 | 44 | 6.1: director fees/salaries + legal fees + office rent; 6.2: legal fees for SA tenement acquisitions (incl GST/VAT where applicable). | [Quarterly + Appendix 5B (31 Dec 2024)](https://announcements.asx.com.au/asxpdf/20250128/pdf/06dwbjhfgsn09d.pdf) |
+| 2025-03-31 | 48 | 12 | 6.1: director fees/salaries + legal fees + office rent; 6.2: legal fees for SA tenement acquisitions (incl GST/VAT where applicable). | [Quarterly + Appendix 5B (31 Mar 2025)](https://announcements.asx.com.au/asxpdf/20250424/pdf/06j0ddypv7lvgw.pdf) |
+| 2025-06-30 | 28 | 15 | 6.1: director fees/salaries + legal fees + office rent; 6.2: legal fees for SA tenement acquisitions (incl GST/VAT where applicable). | [Quarterly + Appendix 5B (30 Jun 2025)](https://announcements.asx.com.au/asxpdf/20250728/pdf/06m6tpt15hlnml.pdf) |
+| 2025-09-30 | 357 | 2 | 6.1: director fees/salaries + legal fees + office rent; 6.2: legal fees for SA tenement acquisitions (incl GST/VAT where applicable). | [Quarterly + Appendix 5B (30 Sep 2025)](https://announcements.asx.com.au/asxpdf/20251029/pdf/06r62jp33jfwb3.pdf) |
+| 2025-12-31 | 607 | 0 | 6.1: director fees/salaries + legal fees + office rent (incl GST/VAT where applicable). | [Quarterly + Appendix 5B (31 Dec 2025)](https://announcements.asx.com.au/asxpdf/20260123/pdf/06vj8v3nlt4skk.pdf) |
+
 ## Substantial holder timeline (primary)
 
 | Notice / snapshot date | Holder | Notice type | Holder became / effective date | Shares | Voting power | Prior → after | Notes | Source |
 |---|---|---|---|---:|---:|---|---|---|
 | 2021-03-03 | Wingfield Durban Deep, LP | Form 603 (initial) | 2021-03-02 | 173,195,314 | 12.46% | 0 → 173,195,314 (12.46%) | “Legal & beneficial owner” per notice. | [Becoming a substantial holder](https://announcements.asx.com.au/asxpdf/20210303/pdf/44t9pjh85nmyvy.pdf) |
 | 2025-09-26 | Wingfield Durban Deep LP | Annual report snapshot | (as at 2025-09-26) | (not stated in the annual report excerpt) | 5.27% | n/a | Included here as a **dated, primary** snapshot; not a Form 603/604 notice. | [WWI Annual Report (year ended 30 June 2025)](https://westwitsmining.com/wp-content/uploads/2025/09/WWI-Annual-Report-End-June-2025.pdf) |
+
+**603/604 check (last ~24 months):** For the period **2024-01-01 → 2026-02-02**, this repo’s review of the ASX annual announcement index pages did **not** identify any Form **603/604** documents for WWI.  
+Sources checked (year views):  
+- [ASX WWI announcements (2024)](https://www.asx.com.au/asx/v2/statistics/announcements.do?by=asxCode&asxCode=WWI&timeframe=Y&year=2024)  
+- [ASX WWI announcements (2025)](https://www.asx.com.au/asx/v2/statistics/announcements.do?by=asxCode&asxCode=WWI&timeframe=Y&year=2025)  
+- [ASX WWI announcements (2026)](https://www.asx.com.au/asx/v2/statistics/announcements.do?by=asxCode&asxCode=WWI&timeframe=Y&year=2026)
 
 ## Director / KMP dealing timeline (Appendix 3Y/3X/3Z)
 
@@ -49,6 +71,7 @@ This table focuses on **director/KMP disclosures** (Appendix 3Y etc.). It does *
 **Evidence (from filings above):**
 - **Material register concentration** (Top 20 ~43.5% as at 26 Sep 2025), with custodians/nominees present (so “Top 20” ≠ necessarily beneficial owners).
 - **Wingfield Durban Deep LP** was a **large initial substantial holder**: 12.46% on 2 Mar 2021 (Form 603). The FY2025 annual report later discloses Wingfield at 5.27% as at 26 Sep 2025 (but this repo does not yet capture Form 604 “change” notices between those dates).
+- **Related-party payments (Appendix 5B item 6.1)** were **modest through Jun 2025** (tens of A$’000 per quarter), then increased in the production transition window: **A$357k (Sep 2025 quarter)** and **A$607k (Dec 2025 quarter)**, as disclosed in the Appendix 5B forms.
 - Over late-2025 / early-2026, the dominant “insider activity” visible in Appendix 3Y filings is **incentive issuance + vesting/exercise** (performance rights issued in Dec 2025; exercised into shares in Jan 2026), plus **director participation in a 2.2c placement** (Aug 2025).
 
 **Inference (explicitly labelled):**

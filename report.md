@@ -123,7 +123,7 @@ Recent raises have been large and frequent (examples captured in `announcements.
 **Primary sources**: FY2025 annual report; director interest notices cited in `ownership.md` / `sources.md`.
 
 ### What to monitor closely (red flags / trust & cost-of-capital risks)
-- **Related-party payments are non-trivial** and recur (e.g., Appendix 5B item 6 shows related-party payments; the FY2025 annual report discloses related-party transactions with director-related entities). This doesn’t prove wrongdoing; it does increase governance scrutiny and can increase the market’s discount rate.
+- **Related-party payments are non-trivial** and recur (Appendix 5B item 6). They also **stepped up materially** into the production transition window (item 6.1: **A$357k in the Sep 2025 quarter** and **A$607k in the Dec 2025 quarter**; see `ownership.md` for the auditable quarter-by-quarter table). This doesn’t prove wrongdoing; it does increase governance scrutiny and can increase the market’s discount rate.
 - **Ongoing incentive issuance** adds to cap-structure overhang; investors should track Appendix 2A/3G cadence and any strike resets/extensions.
 - **Executive Chair structure** concentrates influence; in small caps this can be helpful for speed, but increases key-person and governance optics risk.
 
